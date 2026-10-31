@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 620" font-family="Helvetica, Arial, sans-serif" font-size="14">
+  <title>Épistaxis : escalade thérapeutique (d'après la RPC SFORL 2016)</title>
+  <defs>
+    <marker id="fl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#555"/>
+    </marker>
+  </defs>
+  <style>
+    .b{fill:#f4f6f8;stroke:#5b6b7a;stroke-width:1.5}
+    .g{fill:#fdecea;stroke:#b5473a;stroke-width:1.5}
+    .s{fill:#eaf5ea;stroke:#4f8a4f;stroke-width:1.5}
+    .t{fill:#1d2733;text-anchor:middle}
+    .m{fill:#555;font-size:12px}
+    .l{stroke:#555;stroke-width:1.5;fill:none;marker-end:url(#fl)}
+  </style>
+
+  <rect class="b" x="170" y="10" width="300" height="54" rx="8"/>
+  <text class="t" x="320" y="32">1. Mouchage + compression bidigitale</text>
+  <text class="t" x="320" y="52">10 min, assis, penché en avant</text>
+
+  <rect class="b" x="170" y="96" width="300" height="54" rx="8"/>
+  <text class="t" x="320" y="118">2. Anesthésie locale vasoconstrictrice</text>
+  <text class="t" x="320" y="138">+ endoscopie → cautérisation</text>
+
+  <rect class="b" x="170" y="182" width="300" height="54" rx="8"/>
+  <text class="t" x="320" y="204">3. Tamponnement antérieur</text>
+  <text class="t" x="320" y="224">résorbable si antithrombotique</text>
+
+  <rect class="b" x="170" y="268" width="300" height="54" rx="8"/>
+  <text class="t" x="320" y="290">4. Sonde à double ballonnet</text>
+  <text class="t" x="320" y="310">hospitalisation · 48-72 h</text>
+
+  <rect class="g" x="170" y="354" width="300" height="70" rx="8"/>
+  <text class="t" x="320" y="376">5. Hémostase endoscopique</text>
+  <text class="t" x="320" y="396">de l'artère sphénopalatine</text>
+  <text class="t" x="320" y="414">OU embolisation*</text>
+
+  <rect class="g" x="170" y="456" width="300" height="54" rx="8"/>
+  <text class="t" x="320" y="478">6. Ligature de l'artère</text>
+  <text class="t" x="320" y="498">ethmoïdale antérieure</text>
+
+  <path class="l" d="M320,64 V94"/>
+  <path class="l" d="M320,150 V180"/>
+  <path class="l" d="M320,236 V266"/>
+  <path class="l" d="M320,322 V352"/>
+  <path class="l" d="M320,424 V454"/>
+  <text class="m" x="330" y="84">échec</text>
+  <text class="m" x="330" y="170">échec ou site non vu</text>
+  <text class="m" x="330" y="256">échec (même bilatéral)</text>
+  <text class="m" x="330" y="342">échec ou récidive</text>
+  <text class="m" x="330" y="444">échec ou récidive</text>
+
+  <rect class="s" x="500" y="182" width="128" height="140" rx="8"/>
+  <text class="t" x="564" y="214">Saignement</text>
+  <text class="t" x="564" y="234">arrêté :</text>
+  <text class="t" x="564" y="262">surveillance,</text>
+  <text class="t" x="564" y="282">endoscopie</text>
+  <text class="t" x="564" y="302">à distance</text>
+  <path class="l" d="M470,209 H498"/>
+  <path class="l" d="M470,295 H498"/>
+
+  <text class="m" x="20" y="550">* Embolisation privilégiée si trouble de l'hémostase constitutionnel ou antithrombotique</text>
+  <text class="m" x="20" y="568">  non interruptible. Gravité (choc, saignement massif) : senior et réanimation d'emblée.</text>
+  <text class="m" x="20" y="586">Cas particuliers (Rendu-Osler, traumatisme, tumeur, post-opératoire) : prise en charge spécifique.</text>
+  <text class="m" x="20" y="608">D'après la RPC SFORL « Prise en charge des épistaxis de l'adulte » (2016).</text>
+</svg>

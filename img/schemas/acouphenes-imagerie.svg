@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 690" width="760" height="690" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="760" height="690" fill="#ffffff"/>
+<text x="380.0" y="30.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222">Acouphène : quelle imagerie ? (HAS 2026)</text>
+<rect x="130" y="44" width="500" height="56" rx="8" fill="#eceff1" stroke="#607d8b" stroke-width="1.4"/>
+<text x="140.0" y="64.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222">Otoscopie + audiométrie tonale (CA + CO) ± vocale : SYSTÉMATIQUES</text>
+<text x="140.0" y="82.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222">Rechercher drapeaux rouges neuro / vasculaires / otologiques</text>
+<rect x="20" y="116" width="320" height="70" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.4"/>
+<text x="30.0" y="135.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">&lt; 10 j + céphalée brutale,</text>
+<text x="30.0" y="153.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">inhabituelle, souvent unilatérale</text>
+<line x1="342.0" y1="151.0" x2="392.0" y2="151.0" stroke="#c62828" stroke-width="1.8"/>
+<polygon points="392.0,151.0 383.2,155.7 383.2,146.3" fill="#c62828"/>
+<rect x="396" y="116" width="344" height="70" rx="8" fill="#ffffff" stroke="#c62828" stroke-width="1.4"/>
+<text x="406.0" y="135.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">URGENCE : angio-TDM ou angio-IRM</text>
+<text x="406.0" y="153.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">artérielle (TSA) ± veineuse</text>
+<text x="406.0" y="171.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">(dissection, thrombose veineuse, HSA)</text>
+<rect x="20" y="196" width="320" height="52" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.4"/>
+<text x="30.0" y="215.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Signes neurologiques d'AVC / AIT</text>
+<text x="30.0" y="233.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">(&lt; 24-48 h)</text>
+<line x1="342.0" y1="222.0" x2="392.0" y2="222.0" stroke="#c62828" stroke-width="1.8"/>
+<polygon points="392.0,222.0 383.2,226.7 383.2,217.3" fill="#c62828"/>
+<rect x="396" y="196" width="344" height="52" rx="8" fill="#ffffff" stroke="#c62828" stroke-width="1.4"/>
+<text x="406.0" y="215.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Urgences — filière AVC</text>
+<rect x="20" y="258" width="320" height="52" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.4"/>
+<text x="30.0" y="277.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Surdité brutale associée</text>
+<line x1="342.0" y1="284.0" x2="392.0" y2="284.0" stroke="#c62828" stroke-width="1.8"/>
+<polygon points="392.0,284.0 383.2,288.7 383.2,279.3" fill="#c62828"/>
+<rect x="396" y="258" width="344" height="52" rx="8" fill="#ffffff" stroke="#c62828" stroke-width="1.4"/>
+<text x="406.0" y="277.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Corticothérapie SANS DÉLAI</text>
+<text x="406.0" y="295.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">puis audiométrie + IRM (cf. surdité brusque)</text>
+<rect x="20" y="320" width="320" height="52" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="30.0" y="339.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Acouphène post-traumatique récent</text>
+<text x="30.0" y="357.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">(traumatisme non exploré)</text>
+<line x1="342.0" y1="346.0" x2="392.0" y2="346.0" stroke="#ef6c00" stroke-width="1.8"/>
+<polygon points="392.0,346.0 383.2,350.7 383.2,341.3" fill="#ef6c00"/>
+<rect x="396" y="320" width="344" height="52" rx="8" fill="#ffffff" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="406.0" y="339.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">TDM encéphale + CAI et/ou rochers</text>
+<text x="406.0" y="357.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">± IRM si doute</text>
+<rect x="20" y="382" width="320" height="70" rx="8" fill="#fff8e1" stroke="#f9a825" stroke-width="1.4"/>
+<text x="30.0" y="401.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Unilatéral, OU surdité unilatérale</text>
+<text x="30.0" y="419.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">ou asymétrique, OU troubles</text>
+<text x="30.0" y="437.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">audio-vestibulaires fluctuants</text>
+<line x1="342.0" y1="417.0" x2="392.0" y2="417.0" stroke="#f9a825" stroke-width="1.8"/>
+<polygon points="392.0,417.0 383.2,421.7 383.2,412.3" fill="#f9a825"/>
+<rect x="396" y="382" width="344" height="70" rx="8" fill="#ffffff" stroke="#f9a825" stroke-width="1.4"/>
+<text x="406.0" y="401.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">IRM encéphale + CAI : FLAIR + T2 fines</text>
+<text x="406.0" y="419.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">(gadolinium selon le radiologue)</text>
+<text x="406.0" y="437.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">→ schwannome, lésion rétrocochléaire</text>
+<rect x="20" y="462" width="320" height="70" rx="8" fill="#fff8e1" stroke="#f9a825" stroke-width="1.4"/>
+<text x="30.0" y="481.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">PULSATILE</text>
+<text x="30.0" y="499.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">(synchrone ou non au pouls)</text>
+<line x1="342.0" y1="497.0" x2="392.0" y2="497.0" stroke="#f9a825" stroke-width="1.8"/>
+<polygon points="392.0,497.0 383.2,501.7 383.2,492.3" fill="#f9a825"/>
+<rect x="396" y="462" width="344" height="70" rx="8" fill="#ffffff" stroke="#f9a825" stroke-width="1.4"/>
+<text x="406.0" y="481.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">IRM + TOF (C2 → vertex) + 3D T1 écho de</text>
+<text x="406.0" y="499.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">gradient injectée ± ARM veineuse, ASL ;</text>
+<text x="406.0" y="517.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">souffle carotidien → imagerie des TSA</text>
+<rect x="20" y="542" width="320" height="70" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="30.0" y="561.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Bilatéral, symétrique, non pulsatile,</text>
+<text x="30.0" y="579.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">sans surdité asymétrique ni</text>
+<text x="30.0" y="597.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">trouble fluctuant</text>
+<line x1="342.0" y1="577.0" x2="392.0" y2="577.0" stroke="#2e7d32" stroke-width="1.8"/>
+<polygon points="392.0,577.0 383.2,581.7 383.2,572.3" fill="#2e7d32"/>
+<rect x="396" y="542" width="344" height="70" rx="8" fill="#ffffff" stroke="#2e7d32" stroke-width="1.4"/>
+<text x="406.0" y="561.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">PAS d'imagerie</text>
+<text x="380.0" y="636.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#444">Toujours demander une protection auditive pendant l'IRM (bruit de la machine).</text>
+<text x="380.0" y="656.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#555" font-style="italic">Artériographie : pas en diagnostic systématique. Hydrops / labyrinthite suspectés : IRM labyrinthes 3D FLAIR tardif.</text>
+</svg>

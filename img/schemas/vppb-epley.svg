@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 660" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="960" height="660" fill="#ffffff"/>
+
+  <text x="480" y="30" font-size="20" font-weight="bold" text-anchor="middle" fill="#1f2937">Manœuvre d'Epley — VPPB du canal postérieur DROIT</text>
+  <text x="480" y="52" font-size="14" text-anchor="middle" fill="#4b5563">Patient vu de son côté droit. Chaque position : 30 à 60 s, ou jusqu'à disparition du nystagmus et du vertige</text>
+
+  <!-- ===== 1. Assis ===== -->
+  <text x="160" y="88" font-size="15" font-weight="bold" text-anchor="middle" fill="#1e3a8a">1. Assis, jambes allongées</text>
+  <text x="160" y="106" font-size="13" text-anchor="middle" fill="#1f2937">tête tournée de 45° à DROITE</text>
+  <rect x="40" y="280" width="250" height="16" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <rect x="62" y="180" width="44" height="100" rx="18" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="92" y="256" width="170" height="24" rx="11" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <circle cx="84" cy="152" r="24" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M106,147 L118,154 L106,160 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="98" cy="145" r="3" fill="#1f2937"/>
+  <text x="160" y="320" font-size="12" text-anchor="middle" fill="#4b5563">(nez vers l'épaule droite)</text>
+
+  <!-- ===== 2. Dix-Hallpike droit ===== -->
+  <text x="480" y="88" font-size="15" font-weight="bold" text-anchor="middle" fill="#1e3a8a">2. Allongé, tête dans le vide</text>
+  <text x="480" y="106" font-size="13" text-anchor="middle" fill="#1f2937">extension 20-30°, tête tournée 45° à droite</text>
+  <text x="480" y="122" font-size="13" text-anchor="middle" fill="#1f2937">(= position de Dix-Hallpike droit)</text>
+  <rect x="385" y="280" width="245" height="16" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <rect x="400" y="252" width="110" height="28" rx="13" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="500" y="256" width="120" height="24" rx="11" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <line x1="402" y1="264" x2="378" y2="279" stroke="#92400e" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="358" cy="290" r="24" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M352,267 L347,253 L361,265 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="365" cy="276" r="3" fill="#1f2937"/>
+  <text x="480" y="330" font-size="12" text-anchor="middle" fill="#4b5563">tête à 45° à droite : oreille DROITE vers le bas</text>
+
+  <!-- ===== 3. Rotation de la tête vers la gauche ===== -->
+  <text x="800" y="88" font-size="15" font-weight="bold" text-anchor="middle" fill="#1e3a8a">3. Tourner la tête de 90°</text>
+  <text x="800" y="106" font-size="13" text-anchor="middle" fill="#1f2937">vers la GAUCHE (tête à 45° à gauche),</text>
+  <text x="800" y="122" font-size="13" text-anchor="middle" fill="#1f2937">extension maintenue</text>
+  <rect x="705" y="280" width="245" height="16" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <rect x="720" y="252" width="110" height="28" rx="13" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="820" y="256" width="120" height="24" rx="11" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <line x1="722" y1="264" x2="698" y2="279" stroke="#92400e" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="678" cy="290" r="24" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M672,267 L667,253 L681,265 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M640,250 A40,40 0 0 1 715,250" fill="none" stroke="#1e3a8a" stroke-width="2.5"/>
+  <path d="M715,250 L705,243 L711,256 Z" fill="#1e3a8a"/>
+  <text x="678" y="236" font-size="12" font-weight="bold" text-anchor="middle" fill="#1e3a8a">90°</text>
+  <text x="800" y="330" font-size="12" text-anchor="middle" fill="#4b5563">tête à 45° à gauche : oreille GAUCHE vers le bas</text>
+
+  <!-- ===== 4. Décubitus latéral gauche ===== -->
+  <text x="160" y="378" font-size="15" font-weight="bold" text-anchor="middle" fill="#1e3a8a">4. Rouler sur le côté GAUCHE</text>
+  <text x="160" y="396" font-size="13" text-anchor="middle" fill="#1f2937">la tête continue de tourner de 90° :</text>
+  <text x="160" y="412" font-size="13" text-anchor="middle" fill="#1f2937">nez vers le sol (rotation tête/corps conservée)</text>
+  <rect x="50" y="570" width="250" height="16" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <!-- patient vu de dos (couché sur le côté gauche, l'observateur est à sa droite) -->
+  <rect x="72" y="532" width="112" height="38" rx="17" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="176" y="540" width="118" height="30" rx="13" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <circle cx="50" cy="552" r="24" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M45,575 L40,590 L57,577 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="50" cy="531" r="6" fill="#dc2626"/>
+  <text x="32" y="522" font-size="12" font-weight="bold" fill="#dc2626">D</text>
+  <text x="175" y="612" font-size="12" text-anchor="middle" fill="#4b5563">patient vu de dos ; oreille droite en haut</text>
+
+  <!-- ===== 5. Retour assis tête fléchie ===== -->
+  <text x="480" y="378" font-size="15" font-weight="bold" text-anchor="middle" fill="#1e3a8a">5. Se redresser en position assise</text>
+  <text x="480" y="396" font-size="13" text-anchor="middle" fill="#1f2937">(par le côté gauche), tête encore tournée</text>
+  <text x="480" y="412" font-size="13" text-anchor="middle" fill="#1f2937">à gauche, menton fléchi vers la poitrine</text>
+  <rect x="380" y="560" width="200" height="16" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <rect x="456" y="455" width="46" height="105" rx="18" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="470" y="560" width="16" height="70" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <circle cx="490" cy="438" r="24" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M506,455 L516,468 L499,461 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <text x="560" y="452" font-size="12" fill="#4b5563">menton</text>
+  <text x="560" y="466" font-size="12" fill="#4b5563">fléchi ↓</text>
+
+  <!-- ===== Encadré ===== -->
+  <rect x="640" y="365" width="305" height="270" rx="8" fill="#eff6ff" stroke="#1e3a8a" stroke-width="1.5"/>
+  <text x="655" y="390" font-size="14" font-weight="bold" fill="#1e3a8a">Points pratiques</text>
+  <text x="655" y="414" font-size="13" fill="#1f2937">• Tenir la tête à deux mains pendant</text>
+  <text x="655" y="431" font-size="13" fill="#1f2937">  toute la manœuvre ; mouvements</text>
+  <text x="655" y="448" font-size="13" fill="#1f2937">  fluides, sans torsion du cou.</text>
+  <text x="655" y="472" font-size="13" fill="#1f2937">• Vertige possible en position 2 ;</text>
+  <text x="655" y="489" font-size="13" fill="#1f2937">  attendre la fin du nystagmus.</text>
+  <text x="655" y="513" font-size="13" fill="#1f2937">• Contrôle : Dix-Hallpike droit ;</text>
+  <text x="655" y="530" font-size="13" fill="#1f2937">  répéter si encore positif et toléré.</text>
+  <text x="655" y="554" font-size="13" fill="#1f2937">• VPPB postérieur GAUCHE :</text>
+  <text x="655" y="571" font-size="13" fill="#1f2937">  même séquence en miroir.</text>
+  <text x="655" y="595" font-size="13" fill="#1f2937">• Pas de restriction posturale</text>
+  <text x="655" y="612" font-size="13" fill="#1f2937">  après la manœuvre.</text>
+</svg>

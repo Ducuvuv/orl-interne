@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="960" height="500" fill="#ffffff"/>
+
+  <text x="480" y="30" font-size="20" font-weight="bold" text-anchor="middle" fill="#1f2937">Head impulse test (manœuvre de Halmagyi) — vue de dessus</text>
+  <text x="480" y="52" font-size="14" text-anchor="middle" fill="#4b5563">Le patient fixe le nez de l'examinateur ; rotation brève, rapide et de faible amplitude (10-20°)</text>
+
+  <!-- ===== A. Départ ===== -->
+  <text x="160" y="92" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">A. Départ</text>
+  <text x="160" y="110" font-size="13" text-anchor="middle" fill="#1f2937">regard fixé sur la cible</text>
+  <circle cx="160" cy="140" r="9" fill="#16a34a"/>
+  <text x="178" y="145" font-size="12" fill="#166534">cible</text>
+  <line x1="148" y1="300" x2="160" y2="149" stroke="#16a34a" stroke-width="2"/>
+  <line x1="172" y1="300" x2="160" y2="149" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="160" cy="330" r="48" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <path d="M152,284 L160,268 L168,284 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="148" cy="300" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  <circle cx="172" cy="300" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  <circle cx="149" cy="296" r="3" fill="#1f2937"/>
+  <circle cx="171" cy="296" r="3" fill="#1f2937"/>
+  <circle cx="112" cy="330" r="7" fill="#6b7280"/>
+  <text x="96" y="352" font-size="12" font-weight="bold" fill="#374151">G</text>
+  <circle cx="208" cy="330" r="7" fill="#dc2626"/>
+  <text x="216" y="352" font-size="12" font-weight="bold" fill="#dc2626">D</text>
+
+  <!-- ===== B. Normal ===== -->
+  <text x="480" y="92" font-size="16" font-weight="bold" text-anchor="middle" fill="#166534">B. Réponse NORMALE</text>
+  <text x="480" y="110" font-size="13" text-anchor="middle" fill="#1f2937">tête tournée brusquement vers la droite :</text>
+  <text x="480" y="126" font-size="13" text-anchor="middle" fill="#1f2937">les yeux RESTENT sur la cible (RVO normal)</text>
+  <circle cx="480" cy="160" r="9" fill="#16a34a"/>
+  <g transform="rotate(20 480 330)">
+    <circle cx="480" cy="330" r="48" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+    <path d="M472,284 L480,268 L488,284 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+    <circle cx="468" cy="300" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="492" cy="300" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="432" cy="330" r="7" fill="#6b7280"/>
+    <circle cx="528" cy="330" r="7" fill="#dc2626"/>
+  </g>
+  <!-- lignes de regard vers la cible depuis la position des yeux après rotation -->
+  <line x1="479" y1="295" x2="480" y2="169" stroke="#16a34a" stroke-width="2"/>
+  <line x1="501" y1="303" x2="480" y2="169" stroke="#16a34a" stroke-width="2"/>
+  <path d="M505,262 A72,72 0 0 1 539,289" fill="none" stroke="#1e3a8a" stroke-width="3"/>
+  <path d="M544,296 L530,292 L540,281 Z" fill="#1e3a8a"/>
+  <text x="480" y="405" font-size="13" text-anchor="middle" fill="#1e3a8a">rotation rapide vers la droite (flèche)</text>
+
+  <!-- ===== C. Déficit droit ===== -->
+  <text x="800" y="92" font-size="16" font-weight="bold" text-anchor="middle" fill="#b91c1c">C. Déficit vestibulaire DROIT</text>
+  <text x="800" y="110" font-size="13" text-anchor="middle" fill="#1f2937">les yeux sont entraînés avec la tête,</text>
+  <text x="800" y="126" font-size="13" text-anchor="middle" fill="#1f2937">puis SACCADE DE RATTRAPAGE vers la cible</text>
+  <circle cx="800" cy="160" r="9" fill="#16a34a"/>
+  <g transform="rotate(20 800 330)">
+    <circle cx="800" cy="330" r="48" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+    <path d="M792,284 L800,268 L808,284 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+    <circle cx="788" cy="300" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="812" cy="300" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="752" cy="330" r="7" fill="#6b7280"/>
+    <circle cx="848" cy="330" r="7" fill="#dc2626"/>
+    <!-- regard entraîné avec la tête (parallèle au nez) -->
+    <line x1="788" y1="293" x2="788" y2="170" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+    <line x1="812" y1="293" x2="812" y2="170" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4"/>
+  </g>
+  <!-- saccade de rattrapage -->
+  <path d="M880,190 C860,165 835,158 815,160" fill="none" stroke="#b91c1c" stroke-width="3"/>
+  <path d="M815,160 L827,154 L826,166 Z" fill="#b91c1c"/>
+  <text x="900" y="215" font-size="12" font-weight="bold" text-anchor="middle" fill="#b91c1c">saccade</text>
+  <text x="900" y="230" font-size="12" font-weight="bold" text-anchor="middle" fill="#b91c1c">vers la gauche</text>
+  <path d="M825,262 A72,72 0 0 1 859,289" fill="none" stroke="#1e3a8a" stroke-width="3"/>
+  <path d="M864,296 L850,292 L860,281 Z" fill="#1e3a8a"/>
+  <text x="800" y="405" font-size="13" text-anchor="middle" fill="#1e3a8a">rotation rapide vers la droite (flèche)</text>
+
+  <!-- ===== Message ===== -->
+  <rect x="20" y="440" width="920" height="50" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="480" y="461" font-size="14" font-weight="bold" text-anchor="middle" fill="#991b1b">Le côté vers lequel on tourne la tête quand la saccade apparaît = côté du déficit.</text>
+  <text x="480" y="480" font-size="13" text-anchor="middle" fill="#1f2937">Dans un vertige aigu continu avec nystagmus : HIT pathologique = en faveur d'une atteinte périphérique ; HIT NORMAL = suspect d'AVC.</text>
+</svg>

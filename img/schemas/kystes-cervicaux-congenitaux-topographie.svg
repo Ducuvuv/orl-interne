@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 620" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="940" height="620" fill="#ffffff"/>
+  <text x="20" y="32" font-size="20" font-weight="bold" fill="#1f2937">Topographie des masses cervicales congénitales</text>
+  <text x="20" y="54" font-size="14" fill="#4b5563">Vue de face, patient en face de vous (sa droite = votre gauche)</text>
+
+  <!-- contour du cou -->
+  <path d="M112,130 C100,300 85,430 55,525" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <path d="M548,130 C560,300 575,430 605,525" fill="none" stroke="#9ca3af" stroke-width="2"/>
+  <!-- oreilles -->
+  <ellipse cx="128" cy="100" rx="15" ry="30" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+  <ellipse cx="532" cy="100" rx="15" ry="30" fill="#f3f4f6" stroke="#6b7280" stroke-width="2"/>
+  <!-- mandibule -->
+  <path d="M150,100 C165,190 250,218 330,224 C410,218 495,190 510,100" fill="none" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <text x="330" y="212" font-size="11" text-anchor="middle" fill="#374151">menton</text>
+
+  <!-- SCM droit et gauche -->
+  <polygon points="140,120 172,114 312,545 286,549" fill="#92400e" fill-opacity="0.15" stroke="#92400e" stroke-width="1.5"/>
+  <polygon points="520,120 488,114 348,545 374,549" fill="#92400e" fill-opacity="0.15" stroke="#92400e" stroke-width="1.5"/>
+  <text x="150" y="330" font-size="12" fill="#78350f" transform="rotate(-72 150 330)">SCM droit</text>
+  <text x="520" y="290" font-size="12" fill="#78350f" transform="rotate(72 520 290)">SCM gauche</text>
+
+  <!-- os hyoïde -->
+  <rect x="295" y="261" width="70" height="9" rx="4" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <text x="372" y="262" font-size="11" fill="#374151">hyoïde</text>
+  <!-- cartilage thyroïde -->
+  <polygon points="298,296 362,296 354,342 330,356 306,342" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- cricoïde -->
+  <rect x="309" y="362" width="42" height="11" rx="4" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- trachée -->
+  <rect x="316" y="374" width="28" height="170" fill="#f9fafb" stroke="#6b7280" stroke-width="1.2"/>
+  <!-- thyroïde -->
+  <ellipse cx="301" cy="410" rx="20" ry="33" fill="#fecaca" fill-opacity="0.8" stroke="#b91c1c" stroke-width="1.5"/>
+  <ellipse cx="359" cy="410" rx="20" ry="33" fill="#fecaca" fill-opacity="0.8" stroke="#b91c1c" stroke-width="1.5"/>
+  <rect x="316" y="400" width="28" height="14" fill="#fecaca" stroke="#b91c1c" stroke-width="1"/>
+  <!-- clavicules -->
+  <line x1="300" y1="556" x2="85" y2="522" stroke="#374151" stroke-width="7" stroke-linecap="round"/>
+  <line x1="360" y1="556" x2="575" y2="522" stroke="#374151" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- 1 : tractus thyréoglosse -->
+  <line x1="330" y1="226" x2="330" y2="398" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="5 4"/>
+  <circle cx="330" cy="285" r="15" fill="#3b82f6" fill-opacity="0.85" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="330" y="290" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+  <!-- 2 : kyste dermoïde -->
+  <circle cx="330" cy="244" r="11" fill="#a3a3a3" stroke="#404040" stroke-width="2"/>
+  <text x="330" y="249" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+  <!-- 3 : 2e fente -->
+  <circle cx="222" cy="236" r="21" fill="#22c55e" fill-opacity="0.85" stroke="#14532d" stroke-width="2"/>
+  <text x="222" y="241" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+  <path d="M292,470 C255,400 230,320 240,262 M222,214 C240,190 268,175 292,165" fill="none" stroke="#15803d" stroke-width="2.5" stroke-dasharray="5 4"/>
+  <circle cx="292" cy="470" r="6" fill="#14532d"/>
+  <text x="262" y="492" font-size="11" fill="#14532d">orifice fistuleux</text>
+  <text x="292" y="158" font-size="11" fill="#14532d">→ loge amygdalienne</text>
+  <!-- 4 : 1re fente -->
+  <circle cx="490" cy="190" r="15" fill="#f59e0b" fill-opacity="0.9" stroke="#78350f" stroke-width="2"/>
+  <text x="490" y="195" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+  <path d="M495,175 C505,150 515,130 528,112" fill="none" stroke="#b45309" stroke-width="2.5" stroke-dasharray="5 4"/>
+  <text x="545" y="150" font-size="11" fill="#78350f">→ CAE</text>
+  <!-- 5 : 3e-4e fentes (gauche) -->
+  <circle cx="392" cy="425" r="14" fill="#a855f7" fill-opacity="0.9" stroke="#581c87" stroke-width="2"/>
+  <text x="392" y="430" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">5</text>
+  <path d="M385,412 C378,380 370,350 360,325" fill="none" stroke="#7e22ce" stroke-width="2.5" stroke-dasharray="5 4"/>
+  <text x="372" y="318" font-size="11" fill="#581c87">sinus piriforme G</text>
+  <!-- 6 : malformation lymphatique (triangle postérieur gauche) -->
+  <g fill="#fde68a" stroke="#a16207" stroke-width="1.5">
+    <circle cx="482" cy="440" r="16"/>
+    <circle cx="505" cy="455" r="13"/>
+    <circle cx="470" cy="465" r="12"/>
+    <circle cx="497" cy="478" r="11"/>
+  </g>
+  <circle cx="447" cy="432" r="11" fill="#ffffff" stroke="#a16207" stroke-width="1.5"/>
+  <text x="447" y="437" font-size="13" font-weight="bold" text-anchor="middle" fill="#713f12">6</text>
+  <!-- 7 : laryngocèle externe (droite) -->
+  <ellipse cx="272" cy="290" rx="16" ry="13" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+  <text x="272" y="295" font-size="13" font-weight="bold" text-anchor="middle" fill="#0c4a6e">7</text>
+
+  <!-- légende -->
+  <rect x="612" y="70" width="318" height="535" rx="10" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="627" y="96" font-size="14" font-weight="bold" fill="#1f2937">MÉDIANES</text>
+  <text x="627" y="118" font-size="13" font-weight="bold" fill="#1d4ed8">1 Kyste du tractus thyréoglosse</text>
+  <text x="641" y="135" font-size="12" fill="#1f2937">contact os hyoïde, monte à la déglutition</text>
+  <text x="641" y="151" font-size="12" fill="#1f2937">et à la protraction de la langue</text>
+  <text x="627" y="174" font-size="13" font-weight="bold" fill="#404040">2 Kyste dermoïde</text>
+  <text x="641" y="191" font-size="12" fill="#1f2937">sous-mental, ne monte pas avec la langue</text>
+  <text x="627" y="222" font-size="14" font-weight="bold" fill="#1f2937">LATÉRALES</text>
+  <text x="627" y="244" font-size="13" font-weight="bold" fill="#15803d">3 2e fente (la plus fréquente)</text>
+  <text x="641" y="261" font-size="12" fill="#1f2937">kyste : bord antérieur du SCM, tiers sup.</text>
+  <text x="641" y="277" font-size="12" fill="#1f2937">fistule : bord antérieur du SCM, tiers inf.</text>
+  <text x="641" y="293" font-size="12" fill="#1f2937">trajet entre carotides int. et ext.</text>
+  <text x="627" y="316" font-size="13" font-weight="bold" fill="#b45309">4 1re fente</text>
+  <text x="641" y="333" font-size="12" fill="#1f2937">parotide / angle mandibulaire → CAE</text>
+  <text x="641" y="349" font-size="12" fill="#1f2937">rapports étroits avec le nerf facial</text>
+  <text x="627" y="372" font-size="13" font-weight="bold" fill="#7e22ce">5 3e-4e fentes</text>
+  <text x="641" y="389" font-size="12" fill="#1f2937">sinus piriforme → loge thyroïdienne,</text>
+  <text x="641" y="405" font-size="12" fill="#1f2937">GAUCHE ++ (thyroïdite suppurée)</text>
+  <text x="627" y="428" font-size="13" font-weight="bold" fill="#a16207">6 Malformation lymphatique</text>
+  <text x="641" y="445" font-size="12" fill="#1f2937">(lymphangiome kystique) : molle,</text>
+  <text x="641" y="461" font-size="12" fill="#1f2937">polylobée, triangle postérieur ++</text>
+  <text x="627" y="484" font-size="13" font-weight="bold" fill="#0369a1">7 Laryngocèle externe (adulte)</text>
+  <text x="641" y="501" font-size="12" fill="#1f2937">membrane thyro-hyoïdienne, gonfle</text>
+  <text x="641" y="517" font-size="12" fill="#1f2937">au Valsalva · chercher un cancer</text>
+  <text x="627" y="545" font-size="12" font-weight="bold" fill="#b91c1c">Adulte &gt; 40 ans + masse kystique</text>
+  <text x="627" y="562" font-size="12" font-weight="bold" fill="#b91c1c">latérale = métastase (HPV, oropharynx)</text>
+  <text x="627" y="579" font-size="12" font-weight="bold" fill="#b91c1c">jusqu'à preuve du contraire</text>
+</svg>

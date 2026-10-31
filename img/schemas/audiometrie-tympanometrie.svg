@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 882" width="720" height="882" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="720" height="882" fill="#ffffff"/>
+<text x="360.0" y="30.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222" >Tympanométrie : types de Jerger</text>
+<text x="360.0" y="54.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#555555" >Compliance (mL) en fonction de la pression dans le conduit (daPa) — sonde 226 Hz</text>
+<text x="360.0" y="74.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#555555" >Zone grisée = repère de normalité usuel chez l'adulte (normes variables selon l'appareil)</text>
+<rect x="200.0" y="142.0" width="65.0" height="56.0" fill="#eeeeee"/>
+<line x1="70.0" y1="100" x2="70.0" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="113.3" y1="100" x2="113.3" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="156.7" y1="100" x2="156.7" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="200.0" y1="100" x2="200.0" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="243.3" y1="100" x2="243.3" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="286.7" y1="100" x2="286.7" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="330.0" y1="100" x2="330.0" y2="212" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="70" y1="188.7" x2="330" y2="188.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="165.3" x2="330" y2="165.3" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="142.0" x2="330" y2="142.0" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="118.7" x2="330" y2="118.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="243.3" y1="100" x2="243.3" y2="212" stroke="#9e9e9e" stroke-width="1.2"/>
+<rect x="70" y="100" width="260" height="112" fill="none" stroke="#666" stroke-width="1.1"/>
+<text x="70.0" y="228.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−400</text>
+<text x="156.7" y="228.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−200</text>
+<text x="243.3" y="228.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >0</text>
+<text x="330.0" y="228.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >+200</text>
+<text x="64.0" y="216.0" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >0</text>
+<text x="64.0" y="169.3" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >1</text>
+<text x="64.0" y="122.7" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >2</text>
+<text x="64.0" y="98.0" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >mL</text>
+<polyline points="70.0,208.3 72.2,208.3 74.3,208.3 76.5,208.3 78.7,208.3 80.8,208.3 83.0,208.3 85.2,208.3 87.3,208.3 89.5,208.3 91.7,208.3 93.8,208.3 96.0,208.3 98.2,208.3 100.3,208.3 102.5,208.3 104.7,208.3 106.8,208.3 109.0,208.3 111.2,208.3 113.3,208.3 115.5,208.3 117.7,208.3 119.8,208.3 122.0,208.3 124.2,208.3 126.3,208.3 128.5,208.3 130.7,208.3 132.8,208.3 135.0,208.3 137.2,208.3 139.3,208.3 141.5,208.2 143.7,208.2 145.8,208.2 148.0,208.2 150.2,208.2 152.3,208.2 154.5,208.2 156.7,208.1 158.8,208.1 161.0,208.0 163.2,207.9 165.3,207.8 167.5,207.7 169.7,207.6 171.8,207.4 174.0,207.2 176.2,206.9 178.3,206.6 180.5,206.2 182.7,205.8 184.8,205.3 187.0,204.7 189.2,204.0 191.3,203.2 193.5,202.3 195.7,201.3 197.8,200.1 200.0,198.9 202.2,197.6 204.3,196.1 206.5,194.5 208.7,192.9 210.8,191.1 213.0,189.3 215.2,187.5 217.3,185.6 219.5,183.7 221.7,181.9 223.8,180.1 226.0,178.3 228.2,176.8 230.3,175.3 232.5,174.0 234.7,172.9 236.8,172.1 239.0,171.4 241.2,171.1 243.3,170.9 245.5,171.1 247.7,171.4 249.8,172.1 252.0,172.9 254.2,174.0 256.3,175.3 258.5,176.8 260.7,178.3 262.8,180.1 265.0,181.9 267.2,183.7 269.3,185.6 271.5,187.5 273.7,189.3 275.8,191.1 278.0,192.9 280.2,194.5 282.3,196.1 284.5,197.6 286.7,198.9 288.8,200.1 291.0,201.3 293.2,202.3 295.3,203.2 297.5,204.0 299.7,204.7 301.8,205.3 304.0,205.8 306.2,206.2 308.3,206.6 310.5,206.9 312.7,207.2 314.8,207.4 317.0,207.6 319.2,207.7 321.3,207.8 323.5,207.9 325.7,208.0 327.8,208.1 330.0,208.1" fill="none" stroke="#2e7d32" stroke-width="3" stroke-linejoin="round"/>
+<rect x="12" y="138.0" width="40" height="34" rx="6" fill="#2e7d32"/>
+<text x="32.0" y="162.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#ffffff" >A</text>
+<text x="352.0" y="120.0" font-size="16" text-anchor="start" font-weight="bold" fill="#2e7d32" >Type A — normal</text>
+<text x="352.0" y="144.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Pic centré sur 0 daPa, amplitude normale</text>
+<text x="352.0" y="168.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Oreille moyenne normale</text>
+<text x="352.0" y="192.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >(otospongiose possible : tympanogramme normal)</text>
+<line x1="10" y1="236.0" x2="710" y2="236.0" stroke="#e0e0e0" stroke-width="1"/>
+<rect x="200.0" y="292.0" width="65.0" height="56.0" fill="#eeeeee"/>
+<line x1="70.0" y1="250" x2="70.0" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="113.3" y1="250" x2="113.3" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="156.7" y1="250" x2="156.7" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="200.0" y1="250" x2="200.0" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="243.3" y1="250" x2="243.3" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="286.7" y1="250" x2="286.7" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="330.0" y1="250" x2="330.0" y2="362" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="70" y1="338.7" x2="330" y2="338.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="315.3" x2="330" y2="315.3" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="292.0" x2="330" y2="292.0" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="268.7" x2="330" y2="268.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="243.3" y1="250" x2="243.3" y2="362" stroke="#9e9e9e" stroke-width="1.2"/>
+<rect x="70" y="250" width="260" height="112" fill="none" stroke="#666" stroke-width="1.1"/>
+<text x="70.0" y="378.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−400</text>
+<text x="156.7" y="378.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−200</text>
+<text x="243.3" y="378.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >0</text>
+<text x="330.0" y="378.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >+200</text>
+<text x="64.0" y="366.0" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >0</text>
+<text x="64.0" y="319.3" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >1</text>
+<text x="64.0" y="272.7" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >2</text>
+<polyline points="70.0,359.2 72.2,359.2 74.3,359.2 76.5,359.2 78.7,359.2 80.8,359.2 83.0,359.2 85.2,359.2 87.3,359.2 89.5,359.2 91.7,359.2 93.8,359.2 96.0,359.2 98.2,359.2 100.3,359.2 102.5,359.2 104.7,359.2 106.8,359.2 109.0,359.2 111.2,359.2 113.3,359.2 115.5,359.2 117.7,359.2 119.8,359.2 122.0,359.2 124.2,359.2 126.3,359.2 128.5,359.2 130.7,359.2 132.8,359.2 135.0,359.2 137.2,359.2 139.3,359.2 141.5,359.2 143.7,359.2 145.8,359.2 148.0,359.2 150.2,359.2 152.3,359.2 154.5,359.2 156.7,359.2 158.8,359.2 161.0,359.1 163.2,359.1 165.3,359.1 167.5,359.1 169.7,359.0 171.8,359.0 174.0,358.9 176.2,358.9 178.3,358.8 180.5,358.7 182.7,358.6 184.8,358.5 187.0,358.3 189.2,358.1 191.3,357.9 193.5,357.7 195.7,357.5 197.8,357.2 200.0,356.9 202.2,356.5 204.3,356.2 206.5,355.8 208.7,355.4 210.8,354.9 213.0,354.5 215.2,354.0 217.3,353.5 219.5,353.1 221.7,352.6 223.8,352.1 226.0,351.7 228.2,351.3 230.3,351.0 232.5,350.6 234.7,350.4 236.8,350.2 239.0,350.0 241.2,349.9 243.3,349.9 245.5,349.9 247.7,350.0 249.8,350.2 252.0,350.4 254.2,350.6 256.3,351.0 258.5,351.3 260.7,351.7 262.8,352.1 265.0,352.6 267.2,353.1 269.3,353.5 271.5,354.0 273.7,354.5 275.8,354.9 278.0,355.4 280.2,355.8 282.3,356.2 284.5,356.5 286.7,356.9 288.8,357.2 291.0,357.5 293.2,357.7 295.3,357.9 297.5,358.1 299.7,358.3 301.8,358.5 304.0,358.6 306.2,358.7 308.3,358.8 310.5,358.9 312.7,358.9 314.8,359.0 317.0,359.0 319.2,359.1 321.3,359.1 323.5,359.1 325.7,359.1 327.8,359.2 330.0,359.2" fill="none" stroke="#6d4c41" stroke-width="3" stroke-linejoin="round"/>
+<rect x="12" y="288.0" width="40" height="34" rx="6" fill="#6d4c41"/>
+<text x="32.0" y="312.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#ffffff" >As</text>
+<text x="352.0" y="270.0" font-size="16" text-anchor="start" font-weight="bold" fill="#6d4c41" >Type As — « shallow » (aplati)</text>
+<text x="352.0" y="294.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Pic à 0 daPa mais de faible amplitude</text>
+<text x="352.0" y="318.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Système rigide : otospongiose,</text>
+<text x="352.0" y="342.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >tympanosclérose, tympan épaissi</text>
+<line x1="10" y1="386.0" x2="710" y2="386.0" stroke="#e0e0e0" stroke-width="1"/>
+<rect x="200.0" y="442.0" width="65.0" height="56.0" fill="#eeeeee"/>
+<line x1="70.0" y1="400" x2="70.0" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="113.3" y1="400" x2="113.3" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="156.7" y1="400" x2="156.7" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="200.0" y1="400" x2="200.0" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="243.3" y1="400" x2="243.3" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="286.7" y1="400" x2="286.7" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="330.0" y1="400" x2="330.0" y2="512" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="70" y1="488.7" x2="330" y2="488.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="465.3" x2="330" y2="465.3" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="442.0" x2="330" y2="442.0" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="418.7" x2="330" y2="418.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="243.3" y1="400" x2="243.3" y2="512" stroke="#9e9e9e" stroke-width="1.2"/>
+<rect x="70" y="400" width="260" height="112" fill="none" stroke="#666" stroke-width="1.1"/>
+<text x="70.0" y="528.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−400</text>
+<text x="156.7" y="528.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−200</text>
+<text x="243.3" y="528.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >0</text>
+<text x="330.0" y="528.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >+200</text>
+<text x="64.0" y="516.0" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >0</text>
+<text x="64.0" y="469.3" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >1</text>
+<text x="64.0" y="422.7" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >2</text>
+<polyline points="70.0,508.3 72.2,508.3 74.3,508.3 76.5,508.3 78.7,508.3 80.8,508.3 83.0,508.3 85.2,508.3 87.3,508.3 89.5,508.3 91.7,508.3 93.8,508.3 96.0,508.3 98.2,508.3 100.3,508.3 102.5,508.3 104.7,508.3 106.8,508.3 109.0,508.3 111.2,508.3 113.3,508.3 115.5,508.3 117.7,508.3 119.8,508.3 122.0,508.3 124.2,508.3 126.3,508.3 128.5,508.3 130.7,508.3 132.8,508.3 135.0,508.3 137.2,508.3 139.3,508.3 141.5,508.3 143.7,508.3 145.8,508.3 148.0,508.3 150.2,508.3 152.3,508.3 154.5,508.3 156.7,508.3 158.8,508.3 161.0,508.3 163.2,508.3 165.3,508.3 167.5,508.3 169.7,508.3 171.8,508.3 174.0,508.3 176.2,508.3 178.3,508.3 180.5,508.2 182.7,508.2 184.8,508.2 187.0,508.2 189.2,508.1 191.3,508.0 193.5,507.8 195.7,507.5 197.8,507.1 200.0,506.5 202.2,505.6 204.3,504.4 206.5,502.8 208.7,500.7 210.8,497.9 213.0,494.5 215.2,490.2 217.3,485.0 219.5,479.0 221.7,472.2 223.8,464.7 226.0,456.6 228.2,448.2 230.3,439.9 232.5,431.9 234.7,424.8 236.8,418.7 239.0,414.1 241.2,411.2 243.3,410.3 245.5,411.2 247.7,414.1 249.8,418.7 252.0,424.8 254.2,431.9 256.3,439.9 258.5,448.2 260.7,456.6 262.8,464.7 265.0,472.2 267.2,479.0 269.3,485.0 271.5,490.2 273.7,494.5 275.8,497.9 278.0,500.7 280.2,502.8 282.3,504.4 284.5,505.6 286.7,506.5 288.8,507.1 291.0,507.5 293.2,507.8 295.3,508.0 297.5,508.1 299.7,508.2 301.8,508.2 304.0,508.2 306.2,508.2 308.3,508.3 310.5,508.3 312.7,508.3 314.8,508.3 317.0,508.3 319.2,508.3 321.3,508.3 323.5,508.3 325.7,508.3 327.8,508.3 330.0,508.3" fill="none" stroke="#6a1b9a" stroke-width="3" stroke-linejoin="round"/>
+<rect x="12" y="438.0" width="40" height="34" rx="6" fill="#6a1b9a"/>
+<text x="32.0" y="462.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#ffffff" >Ad</text>
+<text x="352.0" y="420.0" font-size="16" text-anchor="start" font-weight="bold" fill="#6a1b9a" >Type Ad — « deep » (« tour Eiffel »)</text>
+<text x="352.0" y="444.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Pic à 0 daPa très ample et pointu</text>
+<text x="352.0" y="468.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Système trop mobile : rupture ou</text>
+<text x="352.0" y="492.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >disjonction ossiculaire, tympan flaccide</text>
+<line x1="10" y1="536.0" x2="710" y2="536.0" stroke="#e0e0e0" stroke-width="1"/>
+<rect x="200.0" y="592.0" width="65.0" height="56.0" fill="#eeeeee"/>
+<line x1="70.0" y1="550" x2="70.0" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="113.3" y1="550" x2="113.3" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="156.7" y1="550" x2="156.7" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="200.0" y1="550" x2="200.0" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="243.3" y1="550" x2="243.3" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="286.7" y1="550" x2="286.7" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="330.0" y1="550" x2="330.0" y2="662" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="70" y1="638.7" x2="330" y2="638.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="615.3" x2="330" y2="615.3" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="592.0" x2="330" y2="592.0" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="568.7" x2="330" y2="568.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="243.3" y1="550" x2="243.3" y2="662" stroke="#9e9e9e" stroke-width="1.2"/>
+<rect x="70" y="550" width="260" height="112" fill="none" stroke="#666" stroke-width="1.1"/>
+<text x="70.0" y="678.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−400</text>
+<text x="156.7" y="678.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−200</text>
+<text x="243.3" y="678.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >0</text>
+<text x="330.0" y="678.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >+200</text>
+<text x="64.0" y="666.0" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >0</text>
+<text x="64.0" y="619.3" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >1</text>
+<text x="64.0" y="572.7" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >2</text>
+<polyline points="70.0,657.1 72.2,657.1 74.3,657.1 76.5,657.0 78.7,657.0 80.8,657.0 83.0,657.0 85.2,657.0 87.3,657.0 89.5,657.0 91.7,657.0 93.8,657.0 96.0,656.9 98.2,656.9 100.3,656.9 102.5,656.9 104.7,656.9 106.8,656.9 109.0,656.9 111.2,656.9 113.3,656.8 115.5,656.8 117.7,656.8 119.8,656.8 122.0,656.8 124.2,656.8 126.3,656.8 128.5,656.7 130.7,656.7 132.8,656.7 135.0,656.7 137.2,656.7 139.3,656.7 141.5,656.7 143.7,656.7 145.8,656.6 148.0,656.6 150.2,656.6 152.3,656.6 154.5,656.6 156.7,656.6 158.8,656.6 161.0,656.6 163.2,656.5 165.3,656.5 167.5,656.5 169.7,656.5 171.8,656.5 174.0,656.5 176.2,656.5 178.3,656.5 180.5,656.5 182.7,656.5 184.8,656.5 187.0,656.4 189.2,656.4 191.3,656.4 193.5,656.4 195.7,656.4 197.8,656.4 200.0,656.4 202.2,656.4 204.3,656.4 206.5,656.4 208.7,656.4 210.8,656.4 213.0,656.4 215.2,656.4 217.3,656.4 219.5,656.4 221.7,656.4 223.8,656.4 226.0,656.4 228.2,656.4 230.3,656.4 232.5,656.4 234.7,656.4 236.8,656.4 239.0,656.4 241.2,656.4 243.3,656.4 245.5,656.4 247.7,656.4 249.8,656.5 252.0,656.5 254.2,656.5 256.3,656.5 258.5,656.5 260.7,656.5 262.8,656.5 265.0,656.5 267.2,656.5 269.3,656.5 271.5,656.5 273.7,656.6 275.8,656.6 278.0,656.6 280.2,656.6 282.3,656.6 284.5,656.6 286.7,656.6 288.8,656.6 291.0,656.7 293.2,656.7 295.3,656.7 297.5,656.7 299.7,656.7 301.8,656.7 304.0,656.7 306.2,656.7 308.3,656.8 310.5,656.8 312.7,656.8 314.8,656.8 317.0,656.8 319.2,656.8 321.3,656.8 323.5,656.9 325.7,656.9 327.8,656.9 330.0,656.9" fill="none" stroke="#c62828" stroke-width="3" stroke-linejoin="round"/>
+<rect x="12" y="588.0" width="40" height="34" rx="6" fill="#c62828"/>
+<text x="32.0" y="612.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#ffffff" >B</text>
+<text x="352.0" y="570.0" font-size="16" text-anchor="start" font-weight="bold" fill="#c62828" >Type B — plat (pas de pic)</text>
+<text x="352.0" y="594.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Volume normal : épanchement (OSM, OMA)</text>
+<text x="352.0" y="618.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Volume élevé : perforation, aérateur</text>
+<text x="352.0" y="642.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Volume faible : bouchon, sonde obstruée</text>
+<line x1="10" y1="686.0" x2="710" y2="686.0" stroke="#e0e0e0" stroke-width="1"/>
+<rect x="200.0" y="742.0" width="65.0" height="56.0" fill="#eeeeee"/>
+<line x1="70.0" y1="700" x2="70.0" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="113.3" y1="700" x2="113.3" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="156.7" y1="700" x2="156.7" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="200.0" y1="700" x2="200.0" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="243.3" y1="700" x2="243.3" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="286.7" y1="700" x2="286.7" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="330.0" y1="700" x2="330.0" y2="812" stroke="#dddddd" stroke-width="0.8"/>
+<line x1="70" y1="788.7" x2="330" y2="788.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="765.3" x2="330" y2="765.3" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="742.0" x2="330" y2="742.0" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="70" y1="718.7" x2="330" y2="718.7" stroke="#e6e6e6" stroke-width="0.8"/>
+<line x1="243.3" y1="700" x2="243.3" y2="812" stroke="#9e9e9e" stroke-width="1.2"/>
+<rect x="70" y="700" width="260" height="112" fill="none" stroke="#666" stroke-width="1.1"/>
+<text x="70.0" y="828.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−400</text>
+<text x="156.7" y="828.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >−200</text>
+<text x="243.3" y="828.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >0</text>
+<text x="330.0" y="828.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#444" >+200</text>
+<text x="64.0" y="816.0" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >0</text>
+<text x="64.0" y="769.3" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >1</text>
+<text x="64.0" y="722.7" font-size="12" text-anchor="end" font-weight="normal" fill="#444" >2</text>
+<text x="200.0" y="846.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#333" >Pression (daPa)</text>
+<polyline points="70.0,807.9 72.2,807.8 74.3,807.7 76.5,807.5 78.7,807.3 80.8,807.1 83.0,806.8 85.2,806.5 87.3,806.1 89.5,805.6 91.7,805.1 93.8,804.5 96.0,803.8 98.2,803.0 100.3,802.1 102.5,801.2 104.7,800.1 106.8,798.9 109.0,797.6 111.2,796.2 113.3,794.8 115.5,793.3 117.7,791.7 119.8,790.1 122.0,788.4 124.2,786.8 126.3,785.2 128.5,783.6 130.7,782.1 132.8,780.7 135.0,779.4 137.2,778.3 139.3,777.4 141.5,776.6 143.7,776.0 145.8,775.7 148.0,775.6 150.2,775.7 152.3,776.0 154.5,776.6 156.7,777.4 158.8,778.3 161.0,779.4 163.2,780.7 165.3,782.1 167.5,783.6 169.7,785.2 171.8,786.8 174.0,788.4 176.2,790.1 178.3,791.7 180.5,793.3 182.7,794.8 184.8,796.2 187.0,797.6 189.2,798.9 191.3,800.1 193.5,801.2 195.7,802.1 197.8,803.0 200.0,803.8 202.2,804.5 204.3,805.1 206.5,805.6 208.7,806.1 210.8,806.5 213.0,806.8 215.2,807.1 217.3,807.3 219.5,807.5 221.7,807.7 223.8,807.8 226.0,807.9 228.2,808.0 230.3,808.0 232.5,808.1 234.7,808.1 236.8,808.2 239.0,808.2 241.2,808.2 243.3,808.2 245.5,808.2 247.7,808.2 249.8,808.3 252.0,808.3 254.2,808.3 256.3,808.3 258.5,808.3 260.7,808.3 262.8,808.3 265.0,808.3 267.2,808.3 269.3,808.3 271.5,808.3 273.7,808.3 275.8,808.3 278.0,808.3 280.2,808.3 282.3,808.3 284.5,808.3 286.7,808.3 288.8,808.3 291.0,808.3 293.2,808.3 295.3,808.3 297.5,808.3 299.7,808.3 301.8,808.3 304.0,808.3 306.2,808.3 308.3,808.3 310.5,808.3 312.7,808.3 314.8,808.3 317.0,808.3 319.2,808.3 321.3,808.3 323.5,808.3 325.7,808.3 327.8,808.3 330.0,808.3" fill="none" stroke="#1565c0" stroke-width="3" stroke-linejoin="round"/>
+<rect x="12" y="738.0" width="40" height="34" rx="6" fill="#1565c0"/>
+<text x="32.0" y="762.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#ffffff" >C</text>
+<text x="352.0" y="720.0" font-size="16" text-anchor="start" font-weight="bold" fill="#1565c0" >Type C — pic décalé vers les pressions</text>
+<text x="352.0" y="744.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >négatives (souvent &lt; −100 daPa)</text>
+<text x="352.0" y="768.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Dépression de caisse : dysfonction</text>
+<text x="352.0" y="792.0" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >tubaire, rétraction, début/fin d'OSM</text>
+<text x="360.0" y="872.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#555555" >Perforation : courbe plate à volume élevé, pas d'étude de l'oreille moyenne. Toujours lire avec l'otoscopie.</text>
+</svg>

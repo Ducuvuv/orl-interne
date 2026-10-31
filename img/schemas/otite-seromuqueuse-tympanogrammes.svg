@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="960" height="360" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="960" height="360" fill="#ffffff"/>
+  <text x="480" y="28" font-size="20" font-weight="bold" text-anchor="middle" fill="#222">Tympanogrammes : ce qu'il faut reconnaître</text>
+  <text x="480" y="50" font-size="13" text-anchor="middle" fill="#555">Compliance (ordonnée) en fonction de la pression dans le conduit (abscisse, daPa) — sonde 226 Hz</text>
+
+  <!-- Panneau A -->
+  <g>
+    <text x="175" y="82" font-size="15" font-weight="bold" text-anchor="middle" fill="#1b5e20">Type A — normal</text>
+    <rect x="50" y="95" width="250" height="160" fill="none" stroke="#666" stroke-width="1.2"/>
+    <line x1="216.7" y1="95" x2="216.7" y2="255" stroke="#bbb" stroke-dasharray="4 3"/>
+    <path d="M50,248 C160,248 195,120 216.7,120 C238,120 270,248 300,248" fill="none" stroke="#1b5e20" stroke-width="3"/>
+    <text x="50" y="272" font-size="12" text-anchor="middle" fill="#444">−400</text>
+    <text x="216.7" y="272" font-size="12" text-anchor="middle" fill="#444">0</text>
+    <text x="300" y="272" font-size="12" text-anchor="middle" fill="#444">+200</text>
+    <text x="175" y="292" font-size="12" text-anchor="middle" fill="#333">Pic centré sur 0 daPa (± 100)</text>
+    <text x="175" y="308" font-size="12" text-anchor="middle" fill="#333">Oreille moyenne aérée</text>
+  </g>
+
+  <!-- Panneau B -->
+  <g>
+    <text x="480" y="82" font-size="15" font-weight="bold" text-anchor="middle" fill="#b71c1c">Type B — plat</text>
+    <rect x="355" y="95" width="250" height="160" fill="none" stroke="#666" stroke-width="1.2"/>
+    <line x1="521.7" y1="95" x2="521.7" y2="255" stroke="#bbb" stroke-dasharray="4 3"/>
+    <path d="M355,238 C420,236 520,234 605,236" fill="none" stroke="#b71c1c" stroke-width="3"/>
+    <text x="355" y="272" font-size="12" text-anchor="middle" fill="#444">−400</text>
+    <text x="521.7" y="272" font-size="12" text-anchor="middle" fill="#444">0</text>
+    <text x="605" y="272" font-size="12" text-anchor="middle" fill="#444">+200</text>
+    <text x="480" y="292" font-size="12" text-anchor="middle" fill="#333">Pas de pic : tympan immobile</text>
+    <text x="480" y="308" font-size="12" text-anchor="middle" fill="#333">Épanchement rétrotympanique (OSM)</text>
+  </g>
+
+  <!-- Panneau C -->
+  <g>
+    <text x="785" y="82" font-size="15" font-weight="bold" text-anchor="middle" fill="#e65100">Type C — pic décalé</text>
+    <rect x="660" y="95" width="250" height="160" fill="none" stroke="#666" stroke-width="1.2"/>
+    <line x1="826.7" y1="95" x2="826.7" y2="255" stroke="#bbb" stroke-dasharray="4 3"/>
+    <path d="M660,244 C710,244 725,135 743.3,135 C762,135 800,247 910,248" fill="none" stroke="#e65100" stroke-width="3"/>
+    <text x="660" y="272" font-size="12" text-anchor="middle" fill="#444">−400</text>
+    <text x="826.7" y="272" font-size="12" text-anchor="middle" fill="#444">0</text>
+    <text x="910" y="272" font-size="12" text-anchor="middle" fill="#444">+200</text>
+    <text x="785" y="292" font-size="12" text-anchor="middle" fill="#333">Pic en pression négative (&lt; −100 daPa)</text>
+    <text x="785" y="308" font-size="12" text-anchor="middle" fill="#333">Dysfonction tubaire, rétraction</text>
+  </g>
+
+  <text x="480" y="336" font-size="12.5" text-anchor="middle" fill="#222">Toujours interpréter APRÈS l'otoscopie : un tracé plat avec volume du conduit bas = bouchon de cérumen ou sonde contre la paroi ;</text>
+  <text x="480" y="352" font-size="12.5" text-anchor="middle" fill="#222">tracé plat avec volume élevé = perforation tympanique ou aérateur perméable.</text>
+</svg>

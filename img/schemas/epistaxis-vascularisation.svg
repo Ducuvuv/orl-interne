@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="960" height="640" fill="#ffffff"/>
+
+  <text x="480" y="32" font-size="20" font-weight="bold" text-anchor="middle" fill="#1f2937">Vascularisation de la cloison nasale (vue médiale, fosse nasale gauche)</text>
+  <text x="480" y="56" font-size="14" text-anchor="middle" fill="#4b5563">Avant = à gauche (narine) · Arrière = à droite (choane, cavum)</text>
+
+  <!-- silhouette de la cloison -->
+  <path d="M120,400 L150,330 C170,250 210,190 260,150 L420,110 L600,100 L660,115 L700,170 L720,250 L720,400 Z"
+        fill="#fde8e8" stroke="#9f1239" stroke-width="3"/>
+  <!-- plancher / palais -->
+  <path d="M110,410 L740,410" stroke="#6b7280" stroke-width="10" stroke-linecap="round"/>
+  <text x="430" y="440" font-size="14" text-anchor="middle" fill="#374151">plancher nasal = palais (os)</text>
+  <!-- lame criblée -->
+  <path d="M400,112 L610,98" stroke="#6b7280" stroke-width="6" stroke-dasharray="10 6"/>
+  <text x="505" y="132" font-size="13" text-anchor="middle" fill="#374151">lame criblée (toit)</text>
+  <!-- narine -->
+  <text x="95" y="395" font-size="13" text-anchor="end" fill="#374151">narine</text>
+  <!-- choane -->
+  <text x="735" y="330" font-size="13" fill="#374151">choane →</text>
+  <text x="735" y="348" font-size="13" fill="#374151">cavum</text>
+
+  <!-- ===== Carotide interne : artères ethmoïdales (violet) ===== -->
+  <path d="M430,68 C430,110 410,150 370,200 C330,250 290,290 262,318" fill="none" stroke="#7c3aed" stroke-width="5"/>
+  <path d="M585,68 C585,105 570,140 545,178" fill="none" stroke="#7c3aed" stroke-width="4"/>
+  <text x="420" y="84" font-size="14" font-weight="bold" text-anchor="end" fill="#5b21b6">a. ethmoïdale antérieure</text>
+  <text x="595" y="84" font-size="14" font-weight="bold" fill="#5b21b6">a. ethmoïdale postérieure</text>
+
+  <!-- ===== Carotide externe (rouge) ===== -->
+  <!-- sphénopalatine : arrive en arrière et en haut, descend vers l'avant -->
+  <path d="M780,190 L700,200 C600,230 450,300 270,360" fill="none" stroke="#dc2626" stroke-width="6"/>
+  <text x="760" y="168" font-size="14" font-weight="bold" fill="#991b1b">a. sphénopalatine</text>
+  <text x="760" y="186" font-size="13" fill="#991b1b">(br. terminale de l'a. maxillaire)</text>
+  <!-- grande palatine : remonte par le canal incisif -->
+  <path d="M300,470 L300,410 C290,390 270,375 250,365" fill="none" stroke="#dc2626" stroke-width="4"/>
+  <text x="310" y="490" font-size="14" font-weight="bold" fill="#991b1b">a. grande palatine (canal incisif)</text>
+  <!-- sous-cloison (labiale sup., faciale) -->
+  <path d="M60,470 C110,450 150,420 185,375" fill="none" stroke="#dc2626" stroke-width="4"/>
+  <text x="20" y="500" font-size="14" font-weight="bold" fill="#991b1b">a. de la sous-cloison</text>
+  <text x="20" y="518" font-size="13" fill="#991b1b">(a. labiale sup. ← a. faciale)</text>
+
+  <!-- tache vasculaire -->
+  <circle cx="222" cy="352" r="52" fill="#f59e0b" fill-opacity="0.35" stroke="#b45309" stroke-width="3" stroke-dasharray="6 4"/>
+  <text x="222" y="348" font-size="12" font-weight="bold" text-anchor="middle" fill="#7c2d12">TACHE</text>
+  <text x="222" y="364" font-size="12" font-weight="bold" text-anchor="middle" fill="#7c2d12">VASCULAIRE</text>
+
+  <!-- légende -->
+  <line x1="30" y1="545" x2="930" y2="545" stroke="#e5e7eb" stroke-width="2"/>
+  <rect x="40" y="566" width="22" height="7" fill="#7c3aed"/>
+  <text x="72" y="575" font-size="15" fill="#1f2937">Carotide interne (a. ophtalmique) : partie haute de la fosse nasale</text>
+  <rect x="40" y="593" width="22" height="7" fill="#dc2626"/>
+  <text x="72" y="602" font-size="15" fill="#1f2937">Carotide externe : parties postérieure et basse (sphénopalatine = principale artère des fosses nasales)</text>
+  <circle cx="51" cy="622" r="9" fill="#f59e0b" fill-opacity="0.5" stroke="#b45309"/>
+  <text x="72" y="628" font-size="15" fill="#1f2937">Tache vasculaire (Kiesselbach) : siège habituel des épistaxis antérieures ; épistaxis postérieures : branches de la sphénopalatine</text>
+</svg>

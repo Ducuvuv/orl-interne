@@ -1,0 +1,12 @@
+# Sources sous droits d'auteur (Collège ORL) — gardées en local uniquement
+sources/
+
+# Python
+__pycache__/
+*.pyc
+
+# Divers
+.DS_Store
+Thumbs.db
+.claude/settings.local.json
+dist/

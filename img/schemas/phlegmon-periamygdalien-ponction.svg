@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="960" height="560" fill="#ffffff"/>
+
+  <!-- ===== Panneau A : vue endobuccale de face ===== -->
+  <text x="235" y="30" font-size="19" font-weight="bold" text-anchor="middle" fill="#1f2937">A. Vue endobuccale (patient en face de vous)</text>
+  <text x="235" y="52" font-size="14" text-anchor="middle" fill="#4b5563">Abcès péri-amygdalien DROIT du patient = à VOTRE gauche</text>
+
+  <!-- cavité buccale -->
+  <ellipse cx="235" cy="270" rx="200" ry="185" fill="#fde2e2" stroke="#9f1239" stroke-width="3"/>
+  <!-- fond pharyngé -->
+  <ellipse cx="245" cy="300" rx="70" ry="95" fill="#fbd0d0" stroke="#e11d48" stroke-width="1" stroke-opacity="0.5"/>
+  <!-- voile du palais : bombé à gauche de l'image (côté droit du patient) -->
+  <path d="M60,200 C110,120 170,105 225,125 C260,110 330,120 410,200" fill="none" stroke="#9f1239" stroke-width="3"/>
+  <!-- bombement du pilier antérieur droit (patient) -->
+  <path d="M95,215 C120,150 190,150 205,215 C215,275 190,345 150,385 C120,350 85,290 95,215 Z" fill="#f87171" fill-opacity="0.55" stroke="#b91c1c" stroke-width="2.5"/>
+  <!-- amygdale gauche (patient) normale, à droite de l'image -->
+  <ellipse cx="345" cy="285" rx="30" ry="48" fill="#fca5a5" stroke="#b91c1c" stroke-width="1.5"/>
+  <!-- pilier antérieur gauche normal -->
+  <path d="M318,190 C305,240 305,320 322,380" fill="none" stroke="#9f1239" stroke-width="2"/>
+  <!-- luette déviée vers la droite de l'image (côté sain) -->
+  <path d="M235,128 C250,150 268,175 272,205 C275,222 260,228 252,214 C243,195 236,165 228,135 Z" fill="#fb7185" stroke="#9f1239" stroke-width="2"/>
+  <!-- langue -->
+  <path d="M70,400 C150,350 320,350 400,400 C360,450 110,450 70,400 Z" fill="#f4a3b4" stroke="#9f1239" stroke-width="2"/>
+  <text x="235" y="425" font-size="13" text-anchor="middle" fill="#7f1d1d">langue (abaisse-langue)</text>
+
+  <!-- points de ponction -->
+  <circle cx="150" cy="205" r="13" fill="#1d4ed8" stroke="#ffffff" stroke-width="2"/>
+  <text x="150" y="210" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+  <circle cx="155" cy="265" r="11" fill="#60a5fa" stroke="#ffffff" stroke-width="2"/>
+  <text x="155" y="270" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+  <circle cx="150" cy="320" r="11" fill="#60a5fa" stroke="#ffffff" stroke-width="2"/>
+  <text x="150" y="325" font-size="13" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+
+  <!-- légende panneau A -->
+  <circle cx="40" cy="482" r="10" fill="#1d4ed8"/>
+  <text x="58" y="487" font-size="14" fill="#1f2937">1 = point le plus bombant, habituellement pôle supérieur (en premier)</text>
+  <circle cx="40" cy="510" r="9" fill="#60a5fa"/>
+  <text x="58" y="515" font-size="14" fill="#1f2937">2 puis 3 = pôles moyen puis inférieur si ponction blanche</text>
+  <text x="58" y="540" font-size="14" fill="#1f2937">Pilier antérieur et voile bombés · luette déviée côté sain</text>
+
+  <!-- séparateur -->
+  <line x1="480" y1="20" x2="480" y2="545" stroke="#d1d5db" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- ===== Panneau B : coupe axiale schématique ===== -->
+  <text x="720" y="30" font-size="19" font-weight="bold" text-anchor="middle" fill="#1f2937">B. Coupe axiale (vue d'en haut)</text>
+  <text x="720" y="52" font-size="14" text-anchor="middle" fill="#4b5563">AVANT en haut · droite du patient à gauche</text>
+
+  <!-- lumière oropharyngée -->
+  <ellipse cx="740" cy="250" rx="40" ry="28" fill="#ffffff" stroke="#374151" stroke-width="2"/>
+  <text x="740" y="255" font-size="12" text-anchor="middle" fill="#374151">oropharynx</text>
+  <!-- amygdale droite refoulée -->
+  <ellipse cx="680" cy="250" rx="22" ry="32" fill="#fca5a5" stroke="#b91c1c" stroke-width="1.5"/>
+  <text x="680" y="300" font-size="12" text-anchor="middle" fill="#7f1d1d">amygdale</text>
+  <!-- abcès -->
+  <ellipse cx="635" cy="240" rx="30" ry="42" fill="#fbbf24" fill-opacity="0.8" stroke="#b45309" stroke-width="2"/>
+  <text x="635" y="245" font-size="13" font-weight="bold" text-anchor="middle" fill="#78350f">pus</text>
+  <!-- muscle constricteur -->
+  <path d="M600,190 C585,240 595,300 640,330" fill="none" stroke="#7c2d12" stroke-width="5"/>
+  <text x="652" y="338" font-size="12" fill="#7c2d12">constricteur sup.</text>
+  <!-- espace parapharyngé et carotide interne -->
+  <ellipse cx="570" cy="300" rx="34" ry="26" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <circle cx="575" cy="345" r="15" fill="#dc2626" stroke="#7f1d1d" stroke-width="2"/>
+  <text x="575" y="350" font-size="11" font-weight="bold" text-anchor="middle" fill="#ffffff">ACI</text>
+  <circle cx="545" cy="372" r="13" fill="#2563eb" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="545" y="377" font-size="10" font-weight="bold" text-anchor="middle" fill="#ffffff">VJI</text>
+  <!-- rachis -->
+  <rect x="690" y="360" width="100" height="55" rx="18" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <text x="740" y="392" font-size="12" text-anchor="middle" fill="#374151">rachis C2</text>
+
+  <!-- aiguille : plan sagittal -->
+  <line x1="635" y1="95" x2="635" y2="205" stroke="#111827" stroke-width="4"/>
+  <polygon points="628,205 642,205 635,222" fill="#111827"/>
+  <text x="648" y="110" font-size="13" fill="#111827">aiguille 18-20 G</text>
+  <text x="648" y="127" font-size="13" fill="#111827">plan SAGITTAL</text>
+  <text x="648" y="144" font-size="13" fill="#111827">(d'avant en arrière)</text>
+  <text x="648" y="161" font-size="13" font-weight="bold" fill="#111827">≤ 1 cm de profondeur</text>
+
+  <!-- direction interdite -->
+  <line x1="635" y1="120" x2="560" y2="300" stroke="#dc2626" stroke-width="3" stroke-dasharray="8 6"/>
+  <line x1="545" y1="250" x2="595" y2="300" stroke="#dc2626" stroke-width="4"/>
+  <line x1="595" y1="250" x2="545" y2="300" stroke="#dc2626" stroke-width="4"/>
+  <text x="500" y="200" font-size="13" font-weight="bold" fill="#dc2626">JAMAIS</text>
+  <text x="500" y="216" font-size="13" font-weight="bold" fill="#dc2626">en dehors</text>
+
+  <!-- encadré danger -->
+  <rect x="505" y="430" width="440" height="110" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+  <text x="520" y="455" font-size="14" font-weight="bold" fill="#991b1b">Danger carotidien</text>
+  <text x="520" y="476" font-size="13" fill="#1f2937">• Carotide interne ≈ 2,5 cm en arrière et en dehors de l'amygdale</text>
+  <text x="520" y="496" font-size="13" fill="#1f2937">• Capuchon recoupé : 1 cm d'aiguille exposé ; lame protégée (0,5-1 cm)</text>
+  <text x="520" y="516" font-size="13" fill="#1f2937">• Toujours PONCTIONNER avant d'INCISER (pseudo-anévrisme ?)</text>
+  <text x="520" y="534" font-size="13" fill="#1f2937">• Sang rouge / battant : arrêter, comprimer, angio-TDM, senior</text>
+</svg>

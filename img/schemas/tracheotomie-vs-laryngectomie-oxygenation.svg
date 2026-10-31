@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" width="720" height="600" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="720" height="600" fill="#ffffff"/>
+  <text x="360" y="28" font-size="20" font-weight="bold" text-anchor="middle" fill="#222">Par où oxygéner un patient « respirant par le cou » ?</text>
+  <text x="360" y="50" font-size="13" text-anchor="middle" fill="#555">Schéma de profil simplifié : visage et avant du cou à gauche</text>
+
+  <!-- ===================== PANNEAU GAUCHE : TRACHEOTOMIE ===================== -->
+  <rect x="10" y="64" width="340" height="44" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+  <text x="180" y="84" font-size="16" font-weight="bold" text-anchor="middle" fill="#1b5e20">TRACHÉOTOMIE</text>
+  <text x="180" y="101" font-size="12.5" text-anchor="middle" fill="#1b5e20">larynx EN PLACE · pancarte VERTE (NTSP)</text>
+
+  <!-- peau face anterieure du cou -->
+  <line x1="85" y1="215" x2="85" y2="500" stroke="#b08968" stroke-width="3"/>
+  <text x="85" y="514" font-size="11" text-anchor="middle" fill="#7a5c3e">peau du cou</text>
+  <!-- oesophage (dessous) -->
+  <rect x="212" y="262" width="36" height="208" fill="#f3e3c3" stroke="#b9975b" stroke-width="1.5"/>
+  <text x="256" y="420" font-size="12" fill="#6d5525">Œsophage</text>
+  <!-- voies aeriennes : bouche -> pharynx -> larynx -> trachee -->
+  <rect x="60" y="130" width="100" height="40" rx="10" fill="#cfe3f5" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="110" y="155" font-size="13" text-anchor="middle" fill="#1f3b57">Nez / bouche</text>
+  <path d="M160,140 L230,140 L230,262 L212,262 L212,270 L195,270 L195,162 L160,162 Z" fill="#cfe3f5" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="238" y="205" font-size="12" fill="#1f3b57">Pharynx</text>
+  <rect x="135" y="252" width="62" height="48" rx="6" fill="#9cc3e6" stroke="#2f6690" stroke-width="1.5"/>
+  <text x="166" y="281" font-size="12" font-weight="bold" text-anchor="middle" fill="#123">Larynx</text>
+  <rect x="146" y="300" width="40" height="170" fill="#cfe3f5" stroke="#5b8db8" stroke-width="1.5"/>
+  <!-- canule -->
+  <path d="M40,340 L153,340 Q166,340 166,353 L166,410" fill="none" stroke="#7d7d7d" stroke-width="14" stroke-linecap="round"/>
+  <path d="M40,340 L153,340 Q166,340 166,353 L166,410" fill="none" stroke="#e0e0e0" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="166" cy="398" rx="20" ry="13" fill="#ffd54f" fill-opacity="0.8" stroke="#b28704" stroke-width="1.2"/>
+  <rect x="80" y="318" width="10" height="44" fill="#616161"/>
+  <text x="192" y="402" font-size="11" fill="#7a5c00">ballonnet</text>
+  <text x="100" y="326" font-size="12" fill="#333">canule</text>
+  <!-- poumons -->
+  <rect x="118" y="470" width="96" height="28" rx="8" fill="#ffe0e0" stroke="#c48b8b" stroke-width="1.5"/>
+  <text x="166" y="489" font-size="12.5" text-anchor="middle" fill="#6b2a2a">Poumons</text>
+  <!-- fleches O2 (vert) -->
+  <line x1="18" y1="150" x2="46" y2="150" stroke="#2e7d32" stroke-width="3.5"/>
+  <polygon points="58,150 44,142 44,158" fill="#2e7d32"/>
+  <text x="16" y="138" font-size="13" font-weight="bold" fill="#2e7d32">O₂</text>
+  <line x1="16" y1="296" x2="30" y2="320" stroke="#2e7d32" stroke-width="3.5"/>
+  <polygon points="37,333 23,323 37,316" fill="#2e7d32"/>
+  <text x="12" y="288" font-size="13" font-weight="bold" fill="#2e7d32">O₂</text>
+  <!-- encadre bas gauche -->
+  <rect x="10" y="522" width="340" height="70" rx="8" fill="#f1f8f1" stroke="#2e7d32" stroke-width="1.5"/>
+  <text x="180" y="543" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#1b5e20">O₂ au VISAGE  ET  sur la canule/stomie</text>
+  <text x="180" y="562" font-size="12" text-anchor="middle" fill="#333">Les 2 voies communiquent avec les poumons.</text>
+  <text x="180" y="580" font-size="12" text-anchor="middle" fill="#333">Intubation orotrachéale possible (sauf obstacle).</text>
+
+  <!-- ===================== PANNEAU DROIT : LARYNGECTOMIE ===================== -->
+  <rect x="370" y="64" width="340" height="44" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+  <text x="540" y="84" font-size="16" font-weight="bold" text-anchor="middle" fill="#b71c1c">LARYNGECTOMIE TOTALE</text>
+  <text x="540" y="101" font-size="12.5" text-anchor="middle" fill="#b71c1c">trachéostome définitif · pancarte ROUGE (NTSP)</text>
+
+  <line x1="445" y1="215" x2="445" y2="335" stroke="#b08968" stroke-width="3"/>
+  <line x1="445" y1="367" x2="445" y2="500" stroke="#b08968" stroke-width="3"/>
+  <text x="445" y="514" font-size="11" text-anchor="middle" fill="#7a5c3e">peau du cou</text>
+  <!-- bouche -> pharynx -> oesophage uniquement -->
+  <rect x="420" y="130" width="100" height="40" rx="10" fill="#cfe3f5" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="470" y="155" font-size="13" text-anchor="middle" fill="#1f3b57">Nez / bouche</text>
+  <path d="M520,140 L590,140 L590,262 L555,262 L555,162 L520,162 Z" fill="#cfe3f5" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="598" y="200" font-size="12" fill="#1f3b57">Pharynx</text>
+  <rect x="555" y="262" width="36" height="208" fill="#f3e3c3" stroke="#b9975b" stroke-width="1.5"/>
+  <text x="598" y="462" font-size="12" fill="#6d5525">Œsophage</text>
+  <!-- larynx retire -->
+  <rect x="478" y="230" width="62" height="46" rx="6" fill="none" stroke="#9e9e9e" stroke-width="1.5" stroke-dasharray="5,4"/>
+  <text x="509" y="250" font-size="11" text-anchor="middle" fill="#757575">larynx</text>
+  <text x="509" y="265" font-size="11" text-anchor="middle" fill="#757575">retiré</text>
+  <!-- trachee abouchee a la peau (stome) -->
+  <path d="M445,335 Q500,335 508,372 L508,470 L548,470 L548,370 Q540,345 500,343 Q470,345 445,367 Z" fill="#cfe3f5" stroke="#5b8db8" stroke-width="1.5"/>
+  <text x="452" y="358" font-size="11" fill="#1f3b57">stome</text>
+  <text x="514" y="440" font-size="11" fill="#1f3b57" transform="rotate(-90 514 440)">Trachée</text>
+  <!-- implant phonatoire -->
+  <rect x="548" y="398" width="7" height="12" fill="#7e57c2" stroke="#4527a0" stroke-width="1"/>
+  <line x1="557" y1="404" x2="600" y2="378" stroke="#4527a0" stroke-width="1"/>
+  <text x="602" y="368" font-size="11" fill="#4527a0">implant phonatoire</text>
+  <text x="602" y="381" font-size="11" fill="#4527a0">(entre trachée et</text>
+  <text x="602" y="394" font-size="11" fill="#4527a0">œsophage) :</text>
+  <text x="602" y="407" font-size="11" font-weight="bold" fill="#4527a0">ne pas le retirer</text>
+  <!-- poumons -->
+  <rect x="480" y="470" width="96" height="28" rx="8" fill="#ffe0e0" stroke="#c48b8b" stroke-width="1.5"/>
+  <text x="528" y="489" font-size="12.5" text-anchor="middle" fill="#6b2a2a">Poumons</text>
+  <!-- croix rouge sur bouche -->
+  <line x1="414" y1="124" x2="526" y2="176" stroke="#c62828" stroke-width="4" stroke-opacity="0.85"/>
+  <line x1="526" y1="124" x2="414" y2="176" stroke="#c62828" stroke-width="4" stroke-opacity="0.85"/>
+  <text x="420" y="198" font-size="12" font-weight="bold" fill="#c62828">bouche/nez NON reliés</text>
+  <text x="420" y="213" font-size="12" font-weight="bold" fill="#c62828">aux poumons</text>
+  <!-- fleche O2 stome -->
+  <line x1="378" y1="350" x2="428" y2="350" stroke="#c62828" stroke-width="3.5"/>
+  <polygon points="441,350 427,342 427,358" fill="#c62828"/>
+  <text x="378" y="338" font-size="13" font-weight="bold" fill="#c62828">O₂</text>
+  <!-- encadre bas droit -->
+  <rect x="370" y="522" width="340" height="70" rx="8" fill="#fff5f5" stroke="#c62828" stroke-width="1.5"/>
+  <text x="540" y="543" font-size="13.5" font-weight="bold" text-anchor="middle" fill="#b71c1c">O₂ / aérosols / ventilation : STOMIE SEULE</text>
+  <text x="540" y="562" font-size="12" text-anchor="middle" fill="#333">Intubation par la BOUCHE IMPOSSIBLE → intuber la stomie.</text>
+  <text x="540" y="580" font-size="12" text-anchor="middle" fill="#333">Doute sur le type de stomie → O₂ visage ET stomie.</text>
+</svg>

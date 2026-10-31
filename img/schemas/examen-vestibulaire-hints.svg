@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 860" width="700" height="860" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="860" fill="#ffffff"/>
+<text x="350.0" y="32.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222">Grand vertige aigu : HINTS / HINTS+</text>
+<text x="350.0" y="54.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#555">Kattah 2009 · Newman-Toker 2013 · GRACE-3 2023 — examinateur entraîné</text>
+<rect x="40" y="70" width="620" height="66" rx="9" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/>
+<text x="350.0" y="98.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#1565c0">Syndrome vestibulaire aigu</text>
+<text x="350.0" y="117.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#222">vertige CONTINU depuis des heures + NYSTAGMUS spontané + nausées, instabilité</text>
+<line x1="350" y1="136" x2="350" y2="159" stroke="#555" stroke-width="2.4"/>
+<polygon points="350,168 344,157 356,157" fill="#555"/>
+<rect x="40" y="168" width="620" height="66" rx="9" fill="#efebe9" stroke="#6d4c41" stroke-width="2"/>
+<text x="350.0" y="196.0" font-size="15" text-anchor="middle" font-weight="bold" fill="#6d4c41">Signe neurologique, céphalée brutale, cervicalgie, ataxie majeure ?</text>
+<text x="350.0" y="215.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#222">(dysmétrie, troubles de déglutition, diplopie, déficit, Wallenberg…)</text>
+<line x1="200" y1="234" x2="200" y2="261" stroke="#c62828" stroke-width="2.4"/>
+<polygon points="200,270 194,259 206,259" fill="#c62828"/>
+<text x="182.0" y="258.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#c62828">OUI</text>
+<line x1="500" y1="234" x2="500" y2="261" stroke="#2e7d32" stroke-width="2.4"/>
+<polygon points="500,270 494,259 506,259" fill="#2e7d32"/>
+<text x="520.0" y="258.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#2e7d32">NON</text>
+<rect x="40" y="270" width="300" height="70" rx="9" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+<text x="190.0" y="291.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#c62828">CENTRAL probable</text>
+<text x="190.0" y="309.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">IRM (diffusion) ± angio, avis neuro / UNV</text>
+<text x="190.0" y="327.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">pas de TDM pour éliminer</text>
+<rect x="360" y="270" width="300" height="70" rx="9" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="510.0" y="291.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#2e7d32">Faire le HINTS + audition</text>
+<text x="510.0" y="309.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">(head impulse, nystagmus, skew,</text>
+<text x="510.0" y="327.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">frottement des doigts)</text>
+<line x1="510" y1="340" x2="510" y2="357" stroke="#555" stroke-width="2.4"/>
+<polygon points="510,366 504,355 516,355" fill="#555"/>
+<rect x="40" y="372" width="145" height="32" rx="6" fill="#455a64"/>
+<text x="112.5" y="394.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#ffffff">HI — Head Impulse</text>
+<rect x="40" y="410" width="145" height="90" rx="9" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="112.5" y="441.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#2e7d32">SACCADE de</text>
+<text x="112.5" y="459.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">rattrapage</text>
+<text x="112.5" y="477.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">(côté atteint)</text>
+<rect x="40" y="512" width="145" height="90" rx="9" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+<text x="112.5" y="552.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#c62828">NORMAL</text>
+<text x="112.5" y="570.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">des 2 côtés</text>
+<rect x="198" y="372" width="145" height="32" rx="6" fill="#455a64"/>
+<text x="270.5" y="394.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#ffffff">N — Nystagmus</text>
+<rect x="198" y="410" width="145" height="90" rx="9" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="270.5" y="441.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#2e7d32">horizonto-rotatoire</text>
+<text x="270.5" y="459.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">à SENS FIXE,</text>
+<text x="270.5" y="477.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">inhibé par fixation</text>
+<rect x="198" y="512" width="145" height="90" rx="9" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+<text x="270.5" y="543.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#c62828">change de sens</text>
+<text x="270.5" y="561.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">selon le regard,</text>
+<text x="270.5" y="579.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">vertical / torsionnel</text>
+<rect x="356" y="372" width="145" height="32" rx="6" fill="#455a64"/>
+<text x="428.5" y="394.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#ffffff">TS — Test of Skew</text>
+<rect x="356" y="410" width="145" height="90" rx="9" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="428.5" y="441.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#2e7d32">pas de</text>
+<text x="428.5" y="459.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">refixation</text>
+<text x="428.5" y="477.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">verticale</text>
+<rect x="356" y="512" width="145" height="90" rx="9" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+<text x="428.5" y="543.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#c62828">REFIXATION</text>
+<text x="428.5" y="561.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">verticale</text>
+<text x="428.5" y="579.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">(skew)</text>
+<rect x="514" y="372" width="145" height="32" rx="6" fill="#455a64"/>
+<text x="586.5" y="394.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#ffffff">+ — Audition</text>
+<rect x="514" y="410" width="145" height="90" rx="9" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="586.5" y="450.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#2e7d32">pas de surdité</text>
+<text x="586.5" y="468.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">nouvelle</text>
+<rect x="514" y="512" width="145" height="90" rx="9" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+<text x="586.5" y="543.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#c62828">SURDITÉ</text>
+<text x="586.5" y="561.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">brutale nouvelle</text>
+<text x="586.5" y="579.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">(AICA)</text>
+<text x="20" y="455" font-size="12" text-anchor="middle" font-weight="bold" fill="#2e7d32" transform="rotate(-90 20 455)">PÉRIPHÉRIQUE</text>
+<text x="20" y="557" font-size="12" text-anchor="middle" font-weight="bold" fill="#c62828" transform="rotate(-90 20 557)">CENTRAL</text>
+<rect x="40" y="640" width="300" height="120" rx="9" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="190.0" y="668.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#2e7d32">LES 4 colonnes « vertes »</text>
+<text x="190.0" y="686.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">= profil périphérique</text>
+<text x="190.0" y="704.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">→ névrite vestibulaire probable :</text>
+<text x="190.0" y="722.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">traitement symptomatique court,</text>
+<text x="190.0" y="740.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">lever précoce, kiné vestibulaire</text>
+<rect x="360" y="640" width="300" height="120" rx="9" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+<text x="510.0" y="668.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#c62828">UNE SEULE case « rouge » suffit</text>
+<text x="510.0" y="686.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">INFARCT : Impulse Normal, Fast-phase</text>
+<text x="510.0" y="704.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">Alternating, Refixation on Cover Test</text>
+<text x="510.0" y="722.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">→ AVC jusqu'à preuve du contraire :</text>
+<text x="510.0" y="740.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#222">IRM, avis neuro (IRM &lt; 48 h parfois normale)</text>
+<text x="350.0" y="800.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#333">Ne s'applique PAS au vertige positionnel bref (→ Dix-Hallpike) ni au patient sans nystagmus.</text>
+<text x="350.0" y="822.0" font-size="12.5" text-anchor="middle" font-weight="normal" fill="#555">Un petit skew existe dans ~4 % des atteintes périphériques ; un HI anormal n'exclut pas un AVC de l'AICA.</text>
+</svg>

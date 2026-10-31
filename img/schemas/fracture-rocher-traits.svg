@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" width="760" height="650" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="760" height="650" fill="#ffffff"/>
+<text x="380.0" y="30.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222">Fractures du rocher : longitudinale vs transversale</text>
+<text x="380.0" y="52.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#555">Rocher vu d'en haut (schéma) — avant en haut, latéral à droite</text>
+<ellipse cx="430" cy="270" rx="260" ry="72" transform="rotate(28.6 430 270)" fill="#efebe9" stroke="#8d6e63" stroke-width="2"/>
+<line x1="175.4" y1="131.2" x2="693.4" y2="413.6" stroke="#9e9e9e" stroke-width="1.2" stroke-dasharray="6,5"/>
+<text x="179.9" y="174.2" font-size="12" text-anchor="middle" font-weight="normal" fill="#757575" font-style="italic">axe du rocher</text>
+<circle cx="630.2" cy="379.1" r="20" fill="#ffffff" stroke="#5d4037" stroke-width="2"/>
+<text x="660.2" y="413.1" font-size="13" text-anchor="start" font-weight="bold" fill="#5d4037">MAE</text>
+<circle cx="570.5" cy="346.6" r="19" fill="#bbdefb" stroke="#1565c0" stroke-width="1.6"/>
+<text x="576.5" y="392.6" font-size="12" text-anchor="middle" font-weight="bold" fill="#1565c0">oreille moyenne</text>
+<circle cx="491.5" cy="303.5" r="32" fill="#e1bee7" stroke="#6a1b9a" stroke-width="1.8"/>
+<text x="404.7" y="326.8" font-size="12" text-anchor="middle" font-weight="bold" fill="#4a148c">oreille interne</text>
+<text x="404.7" y="341.8" font-size="11" text-anchor="middle" font-weight="normal" fill="#4a148c">(capsule otique)</text>
+<rect x="400.8" y="253.8" width="32" height="18" rx="4" fill="#fff9c4" stroke="#f9a825" stroke-width="1.4" transform="rotate(28.6 416.8 262.8)"/>
+<text x="412.8" y="296.8" font-size="12" text-anchor="middle" font-weight="bold" fill="#f57f17">CAI</text>
+<text x="253.7" y="203.5" font-size="12" text-anchor="middle" font-weight="bold" fill="#5d4037">apex pétreux</text>
+<polyline points="731.7,406.0 632.1,375.6 568.6,350.1 549.6,280.5 472.5,233.9 374.9,183.0 275.5,135.6" fill="none" stroke="#ef6c00" stroke-width="4" stroke-linejoin="round"/>
+<text x="343.8" y="108.8" font-size="15" text-anchor="middle" font-weight="bold" fill="#e65100">L : longitudinal</text>
+<polyline points="412.6,431.4 451.3,389.8 464.6,340.1 495.8,305.9 508.6,261.6 542.8,217.6" fill="none" stroke="#c62828" stroke-width="4" stroke-linejoin="round"/>
+<text x="404.0" y="455.2" font-size="15" text-anchor="middle" font-weight="bold" fill="#b71c1c">T : transversal</text>
+<line x1="740.0" y1="250.0" x2="690.0" y2="300.0" stroke="#e65100" stroke-width="3"/>
+<polygon points="690.0,300.0 692.9,290.4 699.6,297.1" fill="#e65100"/>
+<text x="742.0" y="236.0" font-size="13" text-anchor="end" font-weight="bold" fill="#e65100">choc latéral</text>
+<text x="742.0" y="220.0" font-size="12" text-anchor="end" font-weight="normal" fill="#e65100">(temporo-pariétal)</text>
+<line x1="230.0" y1="470.0" x2="300.0" y2="420.0" stroke="#b71c1c" stroke-width="3"/>
+<polygon points="300.0,420.0 295.5,429.0 290.1,421.3" fill="#b71c1c"/>
+<text x="150.0" y="492.0" font-size="13" text-anchor="start" font-weight="bold" fill="#b71c1c">choc occipital (ou frontal)</text>
+<rect x="20" y="500" width="355" height="127" rx="8" fill="#fff3e0" stroke="#ef6c00" stroke-width="1.4"/>
+<text x="30.0" y="519.0" font-size="14" text-anchor="start" font-weight="bold" fill="#e65100">Longitudinale = extralabyrinthique</text>
+<text x="30.0" y="539.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">≈ « otic capsule sparing »</text>
+<text x="30.0" y="558.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">70-90 % des fractures ; respecte la capsule otique</text>
+<text x="30.0" y="577.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Otorragie, perforation, HÉMOTYMPAN, Battle</text>
+<text x="30.0" y="596.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Surdité de TRANSMISSION (± mixte)</text>
+<text x="30.0" y="615.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">PF 10-25 %, souvent SECONDAIRE (ganglion géniculé)</text>
+<rect x="385" y="500" width="355" height="127" rx="8" fill="#ffebee" stroke="#c62828" stroke-width="1.4"/>
+<text x="395.0" y="519.0" font-size="14" text-anchor="start" font-weight="bold" fill="#b71c1c">Transversale = translabyrinthique</text>
+<text x="395.0" y="539.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">≈ « otic capsule violating »</text>
+<text x="395.0" y="558.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">10-30 % des fractures ; traverse la capsule otique</text>
+<text x="395.0" y="577.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">COPHOSE + grand vertige (nystagmus controlat.)</text>
+<text x="395.0" y="596.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">PF 38-50 %, souvent IMMÉDIATE (section)</text>
+<text x="395.0" y="615.0" font-size="13" text-anchor="start" font-weight="normal" fill="#222">Brèche LCS et lésions intracrâniennes + fréq.</text>
+</svg>

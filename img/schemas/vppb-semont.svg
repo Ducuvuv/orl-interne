@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="960" height="560" fill="#ffffff"/>
+  <defs>
+    <marker id="fl" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#1f2937"/>
+    </marker>
+  </defs>
+
+  <text x="480" y="30" font-size="20" font-weight="bold" text-anchor="middle" fill="#1f2937">Manœuvre libératoire de Sémont — VPPB du canal postérieur DROIT</text>
+  <text x="480" y="52" font-size="14" text-anchor="middle" fill="#4b5563">Patient vu de face (assis au bord de la table) : son côté droit est à GAUCHE de l'image</text>
+
+  <!-- ===== Panneau 1 : assis, tête tournée vers le côté sain ===== -->
+  <text x="160" y="90" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">1. Assis au bord de la table</text>
+  <text x="160" y="110" font-size="13" text-anchor="middle" fill="#1f2937">jambes pendantes ; tête tournée</text>
+  <text x="160" y="127" font-size="13" text-anchor="middle" fill="#1f2937">de 45° vers le côté SAIN (gauche)</text>
+  <rect x="30" y="330" width="260" height="18" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <!-- jambes pendantes -->
+  <rect x="140" y="330" width="16" height="95" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="164" y="330" width="16" height="95" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <!-- tronc -->
+  <rect x="128" y="225" width="64" height="105" rx="22" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <!-- tête de face tournée vers la gauche du patient (= droite de l'image) -->
+  <circle cx="160" cy="195" r="28" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="160" cy="189" r="3" fill="#1f2937"/>
+  <circle cx="178" cy="189" r="3" fill="#1f2937"/>
+  <path d="M176,195 L190,203 L175,206 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="133" cy="197" r="6" fill="#dc2626"/>
+  <text x="112" y="201" font-size="12" font-weight="bold" fill="#dc2626">D</text>
+  <path d="M175,155 A30,30 0 0 1 205,175" fill="none" stroke="#1e3a8a" stroke-width="2.5" marker-end="url(#fl)"/>
+  <text x="212" y="168" font-size="13" font-weight="bold" fill="#1e3a8a">45°</text>
+
+  <!-- ===== Panneau 2 : couché sur le côté droit, nez vers le plafond ===== -->
+  <text x="480" y="90" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">2. Bascule d'un bloc sur le côté</text>
+  <text x="480" y="110" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">DROIT (atteint)</text>
+  <text x="480" y="130" font-size="13" text-anchor="middle" fill="#1f2937">rotation de tête conservée → nez vers le plafond</text>
+  <text x="480" y="147" font-size="13" text-anchor="middle" fill="#1f2937">attendre 1 à 2 min (fin du nystagmus/vertige)</text>
+  <rect x="350" y="330" width="260" height="18" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <!-- tronc couché vers la gauche de l'image -->
+  <rect x="408" y="290" width="110" height="40" rx="18" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <!-- jambes pendantes au bord -->
+  <rect x="500" y="330" width="16" height="95" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="520" y="330" width="16" height="95" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <!-- tête posée sur l'oreille droite, nez vers le haut -->
+  <circle cx="382" cy="302" r="27" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="373" cy="287" r="3" fill="#1f2937"/>
+  <path d="M378,276 L372,260 L390,275 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="382" cy="326" r="6" fill="#dc2626"/>
+  <text x="396" y="349" font-size="12" font-weight="bold" fill="#dc2626">D</text>
+  <text x="372" y="250" font-size="12" text-anchor="middle" fill="#92400e">nez ↑</text>
+
+  <!-- flèche bascule 180° -->
+  <path d="M565,262 C605,212 695,212 735,262" fill="none" stroke="#b91c1c" stroke-width="3" stroke-dasharray="7 4" marker-end="url(#fl)"/>
+  <text x="650" y="180" font-size="13" font-weight="bold" text-anchor="middle" fill="#b91c1c">bascule RAPIDE de 180°</text>
+  <text x="650" y="197" font-size="12" text-anchor="middle" fill="#b91c1c">en passant par l'assis sans s'arrêter</text>
+
+  <!-- ===== Panneau 3 : couché sur le côté gauche, nez vers la table ===== -->
+  <text x="800" y="90" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">3. Arrivée sur le côté</text>
+  <text x="800" y="110" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e3a8a">GAUCHE (sain)</text>
+  <text x="800" y="130" font-size="13" text-anchor="middle" fill="#1f2937">tête toujours tournée → nez vers la table</text>
+  <text x="800" y="147" font-size="13" text-anchor="middle" fill="#1f2937">(« front contre le matelas ») : 1 à 2 min</text>
+  <rect x="670" y="330" width="260" height="18" rx="3" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+  <!-- tronc couché vers la droite de l'image -->
+  <rect x="762" y="290" width="110" height="40" rx="18" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="744" y="330" width="16" height="95" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="764" y="330" width="16" height="95" rx="7" fill="#93c5fd" stroke="#1e3a8a" stroke-width="2"/>
+  <!-- tête : nez vers la table -->
+  <circle cx="898" cy="300" r="27" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <circle cx="900" cy="276" r="6" fill="#dc2626"/>
+  <text x="912" y="268" font-size="12" font-weight="bold" fill="#dc2626">D</text>
+  <path d="M905,326 L910,340 L892,327 Z" fill="#fcd9b6" stroke="#92400e" stroke-width="2"/>
+  <text x="935" y="320" font-size="12" text-anchor="middle" fill="#92400e">nez</text>
+  <text x="935" y="334" font-size="12" text-anchor="middle" fill="#92400e">↓</text>
+
+  <!-- ===== Bas : suite et consignes ===== -->
+  <rect x="20" y="445" width="455" height="105" rx="8" fill="#eff6ff" stroke="#1e3a8a" stroke-width="1.5"/>
+  <text x="35" y="468" font-size="14" font-weight="bold" fill="#1e3a8a">4. Retour LENT en position assise</text>
+  <text x="35" y="488" font-size="13" fill="#1f2937">• tête ramenée en position neutre, patient assis quelques minutes</text>
+  <text x="35" y="506" font-size="13" fill="#1f2937">• contrôle par un nouveau Dix-Hallpike (même séance ou à J7)</text>
+  <text x="35" y="524" font-size="13" fill="#1f2937">• si toujours positif et bien toléré : répéter la manœuvre</text>
+  <text x="35" y="542" font-size="13" fill="#1f2937">• VPPB postérieur GAUCHE : tout inverser (miroir)</text>
+
+  <rect x="490" y="445" width="450" height="105" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+  <text x="505" y="468" font-size="14" font-weight="bold" fill="#991b1b">Sécurité</text>
+  <text x="505" y="488" font-size="13" fill="#1f2937">• L'examinateur tient fermement la tête à deux mains</text>
+  <text x="505" y="506" font-size="13" fill="#1f2937">  et accompagne tout le corps (pas de torsion cervicale)</text>
+  <text x="505" y="524" font-size="13" fill="#1f2937">• Prudence : rachis cervical, hanches, obésité, sujet âgé</text>
+  <text x="505" y="542" font-size="13" fill="#1f2937">• Rester à côté du patient : vertige et chute possibles</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 650" width="700" height="650" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="650" fill="#ffffff"/>
+<text x="350.0" y="32.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222" >Tympan droit normal — vue otoscopique</text>
+<text x="350.0" y="56.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#555" >AVANT (nez du patient) à DROITE de l'image · triangle lumineux antéro-inférieur (≈ 5 h)</text>
+<text x="350.0" y="158.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#777" >HAUT</text>
+<text x="350.0" y="554.0" font-size="14" text-anchor="middle" font-weight="bold" fill="#777" >BAS</text>
+<text x="410.0" y="554.0" font-size="14" text-anchor="start" font-weight="bold" fill="#777" >AVANT (nez) →</text>
+<text x="290.0" y="554.0" font-size="14" text-anchor="end" font-weight="bold" fill="#777" >← ARRIÈRE</text>
+<circle cx="350" cy="350" r="178" fill="#f4dccb" stroke="#c49a7e" stroke-width="2"/>
+<circle cx="350" cy="350" r="164" fill="none" stroke="#e8c6af" stroke-width="10"/>
+<ellipse cx="350" cy="350" rx="128" ry="145" fill="#dde2e8" stroke="none"/>
+<path d="M289.9,222.0 A128,145 0 0 1 410.1,222.0 L365.0,253.0 Z" fill="#ecc9bf" stroke="none"/>
+<path d="M289.9,222.0 Q327.5,255.0 365.0,253.0 Q387.5,251.0 410.1,222.0" fill="none" stroke="#b98f84" stroke-width="2"/>
+<path d="M410.1,222.0 A128,145 0 1 1 289.9,222.0" fill="none" stroke="#a9978a" stroke-width="7" stroke-linecap="round"/>
+<line x1="310.0" y1="269.0" x2="306.0" y2="312.0" stroke="#b3a79d" stroke-width="7" stroke-linecap="round" opacity="0.75"/>
+<circle cx="309.0" cy="316.0" r="5" fill="#b3a79d" opacity="0.75"/>
+<line x1="342.0" y1="356.0" x2="313.3" y2="484.4" stroke="#6d7b8a" stroke-width="1.6" stroke-dasharray="6,5"/>
+<line x1="342.0" y1="356.0" x2="470.3" y2="384.7" stroke="#6d7b8a" stroke-width="1.6" stroke-dasharray="6,5"/>
+<line x1="342.0" y1="356.0" x2="227.1" y2="330.3" stroke="#6d7b8a" stroke-width="1.6" stroke-dasharray="6,5"/>
+<polygon points="347.0,364.7 380.9,467.5 419.1,445.5" fill="#ffffff" opacity="0.95" stroke="#cfd6de" stroke-width="1"/>
+<line x1="365.0" y1="253.0" x2="342.0" y2="356.0" stroke="#cdbf9f" stroke-width="12" stroke-linecap="round"/>
+<line x1="365.0" y1="253.0" x2="342.0" y2="356.0" stroke="#f6efdc" stroke-width="7" stroke-linecap="round"/>
+<circle cx="365.0" cy="253.0" r="8" fill="#fbf6e8" stroke="#cdbf9f" stroke-width="2"/>
+<circle cx="342.0" cy="356.0" r="6" fill="#efe6cf" stroke="#bfae8a" stroke-width="2"/>
+<text x="390.4" y="290.7" font-size="18" text-anchor="middle" font-weight="bold" fill="#3f51b5" >AS</text>
+<text x="420.1" y="398.2" font-size="18" text-anchor="middle" font-weight="bold" fill="#3f51b5" >AI</text>
+<text x="298.6" y="420.7" font-size="18" text-anchor="middle" font-weight="bold" fill="#3f51b5" >PI</text>
+<text x="268.6" y="307.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#3f51b5" >PS</text>
+<line x1="162.0" y1="107.0" x2="338.0" y2="227.0" stroke="#333" stroke-width="1.2"/>
+<circle cx="338.0" cy="227.0" r="3" fill="#333"/>
+<text x="158.0" y="112.0" font-size="15" text-anchor="end" font-weight="bold" fill="#222" >Pars flaccida</text>
+<text x="158.0" y="130.0" font-size="14" text-anchor="end" font-weight="normal" fill="#222" >(membrane de</text>
+<text x="158.0" y="148.0" font-size="14" text-anchor="end" font-weight="normal" fill="#222" >Shrapnell)</text>
+<line x1="162.0" y1="217.0" x2="311.0" y2="305.0" stroke="#333" stroke-width="1.2"/>
+<circle cx="311.0" cy="305.0" r="3" fill="#333"/>
+<text x="158.0" y="222.0" font-size="15" text-anchor="end" font-weight="bold" fill="#222" >Enclume</text>
+<text x="158.0" y="240.0" font-size="14" text-anchor="end" font-weight="normal" fill="#222" >branche descendante</text>
+<text x="158.0" y="258.0" font-size="14" text-anchor="end" font-weight="normal" fill="#222" >(par transparence)</text>
+<line x1="162.0" y1="387.0" x2="338.0" y2="358.0" stroke="#333" stroke-width="1.2"/>
+<circle cx="338.0" cy="358.0" r="3" fill="#333"/>
+<text x="158.0" y="392.0" font-size="15" text-anchor="end" font-weight="bold" fill="#222" >Umbo</text>
+<line x1="162.0" y1="481.0" x2="249.1" y2="439.3" stroke="#333" stroke-width="1.2"/>
+<circle cx="249.1" cy="439.3" r="3" fill="#333"/>
+<text x="158.0" y="486.0" font-size="15" text-anchor="end" font-weight="bold" fill="#222" >Annulus</text>
+<text x="158.0" y="504.0" font-size="14" text-anchor="end" font-weight="normal" fill="#222" >(anneau fibreux)</text>
+<line x1="538.0" y1="107.0" x2="371.0" y2="250.0" stroke="#333" stroke-width="1.2"/>
+<circle cx="371.0" cy="250.0" r="3" fill="#333"/>
+<text x="542.0" y="112.0" font-size="15" text-anchor="start" font-weight="bold" fill="#222" >Apophyse</text>
+<text x="542.0" y="130.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >courte du</text>
+<text x="542.0" y="148.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >marteau</text>
+<line x1="538.0" y1="231.0" x2="357.5" y2="304.5" stroke="#333" stroke-width="1.2"/>
+<circle cx="357.5" cy="304.5" r="3" fill="#333"/>
+<text x="542.0" y="236.0" font-size="15" text-anchor="start" font-weight="bold" fill="#222" >Manche</text>
+<text x="542.0" y="254.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >du marteau</text>
+<line x1="538.0" y1="325.0" x2="446.2" y2="310.3" stroke="#333" stroke-width="1.2"/>
+<circle cx="446.2" cy="310.3" r="3" fill="#333"/>
+<text x="542.0" y="330.0" font-size="15" text-anchor="start" font-weight="bold" fill="#222" >Pars tensa</text>
+<line x1="538.0" y1="471.0" x2="394.0" y2="442.5" stroke="#333" stroke-width="1.2"/>
+<circle cx="394.0" cy="442.5" r="3" fill="#333"/>
+<text x="542.0" y="476.0" font-size="15" text-anchor="start" font-weight="bold" fill="#222" >Triangle</text>
+<text x="542.0" y="494.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >lumineux</text>
+<text x="542.0" y="512.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >(≈ 5 h)</text>
+<text x="350.0" y="578.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >Quadrants (axe du manche + perpendiculaire par l'umbo) : AS antéro-supérieur · AI antéro-inférieur ·</text>
+<text x="350.0" y="598.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >PI postéro-inférieur · PS postéro-supérieur. Paracentèse / aérateur : quadrants inférieurs.</text>
+<text x="350.0" y="618.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >Tympan GAUCHE = image en miroir : avant à gauche, triangle lumineux à ≈ 7 h.</text>
+</svg>

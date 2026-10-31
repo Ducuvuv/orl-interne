@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1102" width="700" height="1102" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="1102" fill="#ffffff"/>
+<text x="350.0" y="32.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222">Trajet du nerf facial (VII)</text>
+<text x="350.0" y="56.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#555">Schéma « déplié » — à gauche : segments · à droite : branches et test correspondant</text>
+<text x="350.0" y="74.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#777">Longueurs approximatives (variables selon les sources)</text>
+<circle cx="250" cy="92" r="9" fill="#4a148c"/>
+<text x="268.0" y="97.0" font-size="13" text-anchor="start" font-weight="bold" fill="#4a148c">Noyau moteur (pont) — émergence au sillon bulbo-protubérantiel</text>
+<line x1="250" y1="96" x2="250" y2="170" stroke="#7b1fa2" stroke-width="12" stroke-linecap="butt"/>
+<text x="228.0" y="117.0" font-size="14" text-anchor="end" font-weight="bold" fill="#7b1fa2">1. Intracrânien (cisternal)</text>
+<text x="228.0" y="134.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">≈ 24 mm · angle ponto-cérébelleux,</text>
+<text x="228.0" y="151.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">avec le VIII</text>
+<line x1="250" y1="170" x2="250" y2="236" stroke="#1565c0" stroke-width="12" stroke-linecap="butt"/>
+<text x="228.0" y="187.0" font-size="14" text-anchor="end" font-weight="bold" fill="#1565c0">2. Méatal (CAI)</text>
+<text x="228.0" y="204.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">≈ 8 mm · quadrant</text>
+<text x="228.0" y="221.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">antéro-supérieur du fond du CAI</text>
+<line x1="250" y1="236" x2="250" y2="292" stroke="#c62828" stroke-width="12" stroke-linecap="butt"/>
+<text x="228.0" y="248.0" font-size="14" text-anchor="end" font-weight="bold" fill="#c62828">3. Labyrinthique</text>
+<text x="228.0" y="265.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">≈ 3-5 mm · canal le plus ÉTROIT</text>
+<text x="228.0" y="282.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">→ œdème = garrot (Bell)</text>
+<line x1="250" y1="306" x2="250" y2="400" stroke="#ef6c00" stroke-width="12" stroke-linecap="butt"/>
+<text x="228.0" y="329.0" font-size="14" text-anchor="end" font-weight="bold" fill="#ef6c00">4. Tympanique (horizontal)</text>
+<text x="228.0" y="346.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">≈ 8-11 mm · au-dessus de la fenêtre</text>
+<text x="228.0" y="363.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">ovale, sous le canal latéral ;</text>
+<text x="228.0" y="380.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">déhiscences fréquentes</text>
+<line x1="250" y1="414" x2="250" y2="640" stroke="#2e7d32" stroke-width="12" stroke-linecap="butt"/>
+<text x="228.0" y="511.0" font-size="14" text-anchor="end" font-weight="bold" fill="#2e7d32">5. Mastoïdien (vertical)</text>
+<text x="228.0" y="528.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">≈ 10-14 mm · paroi postérieure</text>
+<text x="228.0" y="545.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">du conduit (mastoïdectomie)</text>
+<line x1="250" y1="654" x2="250" y2="722" stroke="#00838f" stroke-width="12" stroke-linecap="butt"/>
+<text x="228.0" y="680.0" font-size="14" text-anchor="end" font-weight="bold" fill="#00838f">6. Extracrânien (tronc)</text>
+<text x="228.0" y="697.0" font-size="13" text-anchor="end" font-weight="normal" fill="#333">≈ 15-20 mm jusqu'à sa division</text>
+<path d="M250,292 Q276,299 250,306" stroke="#ef6c00" stroke-width="12" fill="none"/>
+<circle cx="256" cy="299" r="13" fill="#ffca28" stroke="#ef6c00" stroke-width="3"/>
+<text x="228.0" y="304.0" font-size="13" text-anchor="end" font-weight="bold" fill="#e65100">1er genou = GANGLION GÉNICULÉ</text>
+<path d="M250,400 Q226,407 250,414" stroke="#2e7d32" stroke-width="12" fill="none"/>
+<text x="220.0" y="412.0" font-size="13" text-anchor="end" font-weight="bold" fill="#2e7d32">2e genou (« coude »)</text>
+<rect x="234" y="641" width="32" height="12" rx="3" fill="#455a64"/>
+<text x="224.0" y="652.0" font-size="13" text-anchor="end" font-weight="bold" fill="#37474f">Foramen stylo-mastoïdien</text>
+<line x1="258" y1="299" x2="310" y2="299" stroke="#e65100" stroke-width="4"/>
+<polygon points="318,299 308,293 308,305" fill="#e65100"/>
+<text x="326.0" y="304.0" font-size="14" text-anchor="start" font-weight="bold" fill="#e65100">Grand nerf pétreux (superficiel)</text>
+<text x="326.0" y="321.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">→ glande lacrymale, glandes nasales et palatines</text>
+<rect x="322" y="324" width="226" height="20" rx="4" fill="#fff8e1" stroke="#f9a825"/>
+<text x="327.0" y="339.0" font-size="13" text-anchor="start" font-weight="bold" fill="#795548">Test de Schirmer (larmoiement)</text>
+<line x1="258" y1="436" x2="310" y2="436" stroke="#2e7d32" stroke-width="4"/>
+<polygon points="318,436 308,430 308,442" fill="#2e7d32"/>
+<text x="326.0" y="441.0" font-size="14" text-anchor="start" font-weight="bold" fill="#2e7d32">Nerf du muscle stapédien</text>
+<text x="326.0" y="458.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">→ réflexe stapédien (atteinte : hyperacousie)</text>
+<rect x="322" y="461" width="262" height="20" rx="4" fill="#fff8e1" stroke="#f9a825"/>
+<text x="327.0" y="476.0" font-size="13" text-anchor="start" font-weight="bold" fill="#795548">Réflexe stapédien (impédancemétrie)</text>
+<line x1="258" y1="530" x2="310" y2="530" stroke="#2e7d32" stroke-width="4"/>
+<polygon points="318,530 308,524 308,536" fill="#2e7d32"/>
+<text x="326.0" y="535.0" font-size="14" text-anchor="start" font-weight="bold" fill="#2e7d32">Corde du tympan</text>
+<text x="326.0" y="552.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">naît ≈ 6 mm au-dessus du foramen (variable)</text>
+<text x="326.0" y="569.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">→ goût des 2/3 antérieurs de la langue (via le V3)</text>
+<text x="326.0" y="586.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">→ sécrétion sous-mandibulaire et sublinguale</text>
+<rect x="322" y="589" width="89" height="20" rx="4" fill="#fff8e1" stroke="#f9a825"/>
+<text x="327.0" y="604.0" font-size="13" text-anchor="start" font-weight="bold" fill="#795548">Gustométrie</text>
+<line x1="258" y1="684" x2="310" y2="684" stroke="#00838f" stroke-width="4"/>
+<polygon points="318,684 308,678 308,690" fill="#00838f"/>
+<text x="326.0" y="689.0" font-size="14" text-anchor="start" font-weight="bold" fill="#00838f">Auriculaire postérieur · digastrique (ventre</text>
+<text x="326.0" y="706.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">postérieur) · stylo-hyoïdien</text>
+<text x="326.0" y="723.0" font-size="13" text-anchor="start" font-weight="normal" fill="#333">+ rameau sensitif de la conque (zone de Ramsay Hunt)</text>
+<ellipse cx="440" cy="848" rx="200" ry="104" fill="#fce4ec" stroke="#f48fb1" stroke-width="2"/>
+<text x="550.0" y="944.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#ad1457">Glande parotide</text>
+<line x1="250" y1="722" x2="250" y2="740" stroke="#00838f" stroke-width="12"/>
+<circle cx="250" cy="742" r="8" fill="#00838f"/>
+<text x="234.0" y="738.0" font-size="14" text-anchor="end" font-weight="bold" fill="#00695c">Pes anserinus</text>
+<text x="234.0" y="755.0" font-size="12" text-anchor="end" font-weight="normal" fill="#333">(division intraparotidienne :</text>
+<text x="234.0" y="770.0" font-size="12" text-anchor="end" font-weight="normal" fill="#333">temporo-faciale / cervico-faciale)</text>
+<path d="M250,742 C310,742 330,744 400,744" stroke="#00838f" stroke-width="4" fill="none"/>
+<text x="408.0" y="742.0" font-size="14" text-anchor="start" font-weight="bold" fill="#004d40">Temporale (frontale)</text>
+<text x="408.0" y="758.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333">rides du front, sourcil</text>
+<path d="M250,742 C310,742 330,782 400,782" stroke="#00838f" stroke-width="4" fill="none"/>
+<text x="408.0" y="780.0" font-size="14" text-anchor="start" font-weight="bold" fill="#004d40">Zygomatique</text>
+<text x="408.0" y="796.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333">fermeture de l'œil</text>
+<path d="M250,742 C310,742 330,820 400,820" stroke="#00838f" stroke-width="4" fill="none"/>
+<text x="408.0" y="818.0" font-size="14" text-anchor="start" font-weight="bold" fill="#004d40">Buccale</text>
+<text x="408.0" y="834.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333">joue, lèvre supérieure, sourire</text>
+<path d="M250,742 C310,742 330,858 400,858" stroke="#00838f" stroke-width="4" fill="none"/>
+<text x="408.0" y="856.0" font-size="14" text-anchor="start" font-weight="bold" fill="#004d40">Marginale de la mandibule</text>
+<text x="408.0" y="872.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333">abaisseurs de la lèvre inférieure</text>
+<path d="M250,742 C310,742 330,896 400,896" stroke="#00838f" stroke-width="4" fill="none"/>
+<text x="408.0" y="894.0" font-size="14" text-anchor="start" font-weight="bold" fill="#004d40">Cervicale</text>
+<text x="408.0" y="910.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333">platysma (peaucier du cou)</text>
+<rect x="20" y="972" width="660" height="116" rx="8" fill="#e3f2fd" stroke="#64b5f6"/>
+<text x="36.0" y="996.0" font-size="15" text-anchor="start" font-weight="bold" fill="#0d47a1">Trouver le tronc (parotidectomie) :</text>
+<text x="36.0" y="1018.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222">• Tragal pointer : tronc ≈ 1 cm en profondeur et ≈ 1 cm sous sa pointe (repère mobile, approximatif)</text>
+<text x="36.0" y="1038.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222">• Ventre postérieur du digastrique : tronc juste au-dessus de son bord supérieur, à la même profondeur</text>
+<text x="36.0" y="1058.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222">• Suture tympano-mastoïdienne : mène au foramen stylo-mastoïdien (tronc à quelques mm)</text>
+<text x="36.0" y="1078.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222">• Styloïde : le tronc croise sa base par en dehors</text>
+</svg>

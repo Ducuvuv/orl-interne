@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 614" width="720" height="614" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="720" height="614" fill="#ffffff"/>
+<text x="360.0" y="30.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222" >Audiogramme normal et conventions</text>
+<text x="360.0" y="54.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#555555" >PAM droite 7 dB · gauche 15 dB — CA (casque) et CO (vibrateur mastoïdien)</text>
+<rect x="92" y="78.0" width="498" height="94.6" fill="#e8f5e9"/>
+<line x1="92" y1="78.0" x2="590" y2="78.0" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="83.0" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >-10</text>
+<line x1="92" y1="109.5" x2="590" y2="109.5" stroke="#9e9e9e" stroke-width="1.6"/>
+<text x="84.0" y="114.5" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >0</text>
+<line x1="92" y1="141.1" x2="590" y2="141.1" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="146.1" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >10</text>
+<line x1="92" y1="172.6" x2="590" y2="172.6" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="177.6" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >20</text>
+<line x1="92" y1="204.2" x2="590" y2="204.2" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="209.2" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >30</text>
+<line x1="92" y1="235.7" x2="590" y2="235.7" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="240.7" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >40</text>
+<line x1="92" y1="267.2" x2="590" y2="267.2" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="272.2" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >50</text>
+<line x1="92" y1="298.8" x2="590" y2="298.8" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="303.8" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >60</text>
+<line x1="92" y1="330.3" x2="590" y2="330.3" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="335.3" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >70</text>
+<line x1="92" y1="361.8" x2="590" y2="361.8" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="366.8" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >80</text>
+<line x1="92" y1="393.4" x2="590" y2="393.4" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="398.4" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >90</text>
+<line x1="92" y1="424.9" x2="590" y2="424.9" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="429.9" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >100</text>
+<line x1="92" y1="456.5" x2="590" y2="456.5" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="461.5" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >110</text>
+<line x1="92" y1="488.0" x2="590" y2="488.0" stroke="#d0d0d0" stroke-width="0.8"/>
+<text x="84.0" y="493.0" font-size="13" text-anchor="end" font-weight="normal" fill="#444" >120</text>
+<line x1="92.0" y1="78" x2="92.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="92.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >125</text>
+<line x1="175.0" y1="78" x2="175.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="175.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >250</text>
+<line x1="258.0" y1="78" x2="258.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="258.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >500</text>
+<line x1="341.0" y1="78" x2="341.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="341.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >1000</text>
+<line x1="424.0" y1="78" x2="424.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="424.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >2000</text>
+<line x1="507.0" y1="78" x2="507.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="507.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >4000</text>
+<line x1="590.0" y1="78" x2="590.0" y2="488" stroke="#c4c4c4" stroke-width="0.9"/>
+<text x="590.0" y="510.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" >8000</text>
+<line x1="306.6" y1="78" x2="306.6" y2="488" stroke="#e2e2e2" stroke-width="0.8" stroke-dasharray="3,4"/>
+<line x1="389.6" y1="78" x2="389.6" y2="488" stroke="#e2e2e2" stroke-width="0.8" stroke-dasharray="3,4"/>
+<line x1="472.6" y1="78" x2="472.6" y2="488" stroke="#e2e2e2" stroke-width="0.8" stroke-dasharray="3,4"/>
+<line x1="555.6" y1="78" x2="555.6" y2="488" stroke="#e2e2e2" stroke-width="0.8" stroke-dasharray="3,4"/>
+<rect x="92" y="78" width="498" height="410" fill="none" stroke="#666" stroke-width="1.2"/>
+<text x="341.0" y="534.0" font-size="15" text-anchor="middle" font-weight="normal" fill="#333" >Fréquence (Hz) — graves à gauche, aigus à droite</text>
+<text x="26.0" y="283.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#333" transform="rotate(-90 26 283.0)">Seuil auditif (dB HL) — perte croissante vers le bas</text>
+<text x="604.0" y="70.0" font-size="13" text-anchor="start" font-weight="bold" fill="#333" >BIAP (PAM)</text>
+<rect x="604" y="78.0" width="8" height="96.2" fill="#81c784"/>
+<text x="618.0" y="124.1" font-size="14" text-anchor="start" font-weight="bold" fill="#333" >Normale</text>
+<text x="618.0" y="141.1" font-size="12" text-anchor="start" font-weight="normal" fill="#555" >≤ 20 dB</text>
+<rect x="604" y="174.2" width="8" height="63.1" fill="#fff176"/>
+<text x="618.0" y="203.7" font-size="14" text-anchor="start" font-weight="bold" fill="#333" >Légère</text>
+<text x="618.0" y="220.7" font-size="12" text-anchor="start" font-weight="normal" fill="#555" >21-40 dB</text>
+<rect x="604" y="237.3" width="8" height="94.6" fill="#ffb74d"/>
+<text x="618.0" y="282.6" font-size="14" text-anchor="start" font-weight="bold" fill="#333" >Moyenne</text>
+<text x="618.0" y="299.6" font-size="12" text-anchor="start" font-weight="normal" fill="#555" >41-70 dB</text>
+<rect x="604" y="331.9" width="8" height="63.1" fill="#e57373"/>
+<text x="618.0" y="361.4" font-size="14" text-anchor="start" font-weight="bold" fill="#333" >Sévère</text>
+<text x="618.0" y="378.4" font-size="12" text-anchor="start" font-weight="normal" fill="#555" >71-90 dB</text>
+<rect x="604" y="395.0" width="8" height="91.5" fill="#ba68c8"/>
+<text x="618.0" y="438.7" font-size="14" text-anchor="start" font-weight="bold" fill="#333" >Profonde</text>
+<text x="618.0" y="455.7" font-size="12" text-anchor="start" font-weight="normal" fill="#555" >91-119 dB</text>
+<text x="618.0" y="492.0" font-size="12" text-anchor="start" font-weight="bold" fill="#333" >Cophose 120</text>
+<polyline points="164.0,109.5 247.0,109.5 330.0,109.5 413.0,109.5 496.0,125.3" fill="none" stroke="#c62828" stroke-width="1.8" stroke-dasharray="6,5" stroke-linejoin="round"/>
+<polyline points="169.0,100.5 159.0,109.5 169.0,118.5" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="252.0,100.5 242.0,109.5 252.0,118.5" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="335.0,100.5 325.0,109.5 335.0,118.5" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="418.0,100.5 408.0,109.5 418.0,118.5" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="501.0,116.3 491.0,125.3 501.0,134.3" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="186.0,141.1 269.0,141.1 352.0,141.1 435.0,141.1 518.0,141.1" fill="none" stroke="#1565c0" stroke-width="1.8" stroke-dasharray="6,5" stroke-linejoin="round"/>
+<polyline points="181.0,132.1 191.0,141.1 181.0,150.1" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="264.0,132.1 274.0,141.1 264.0,150.1" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="347.0,132.1 357.0,141.1 347.0,150.1" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="430.0,132.1 440.0,141.1 430.0,150.1" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="513.0,132.1 523.0,141.1 513.0,150.1" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="92.0,156.8 175.0,156.8 258.0,156.8 341.0,156.8 424.0,156.8 507.0,156.8 590.0,172.6" fill="none" stroke="#1565c0" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M85.0,149.8 L99.0,163.8 M85.0,163.8 L99.0,149.8" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M168.0,149.8 L182.0,163.8 M168.0,163.8 L182.0,149.8" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M251.0,149.8 L265.0,163.8 M251.0,163.8 L265.0,149.8" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M334.0,149.8 L348.0,163.8 M334.0,163.8 L348.0,149.8" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M417.0,149.8 L431.0,163.8 M417.0,163.8 L431.0,149.8" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M500.0,149.8 L514.0,163.8 M500.0,163.8 L514.0,149.8" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M583.0,165.6 L597.0,179.6 M583.0,179.6 L597.0,165.6" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<polyline points="92.0,125.3 175.0,125.3 258.0,125.3 341.0,125.3 424.0,125.3 507.0,141.1 590.0,141.1" fill="none" stroke="#c62828" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="92.0" cy="125.3" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<circle cx="175.0" cy="125.3" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<circle cx="258.0" cy="125.3" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<circle cx="341.0" cy="125.3" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<circle cx="424.0" cy="125.3" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<circle cx="507.0" cy="141.1" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<circle cx="590.0" cy="141.1" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<rect x="138.0" y="281.8" width="284.3" height="65.0" rx="5" fill="#ffffff" fill-opacity="0.93" stroke="#999" stroke-width="0.8"/>
+<text x="145.0" y="298.8" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Audition normale : tous les seuils</text>
+<text x="145.0" y="317.8" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >entre −10 et 20 dB, CA = CO</text>
+<text x="145.0" y="336.8" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >aux 2 oreilles (pas de Rinne).</text>
+<rect x="344.0" y="392.2" width="260.5" height="65.0" rx="5" fill="#fffde7" fill-opacity="0.93" stroke="#999" stroke-width="0.8"/>
+<text x="351.0" y="409.2" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >Le 0 dB HL est en HAUT :</text>
+<text x="351.0" y="428.2" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >plus le point est BAS,</text>
+<text x="351.0" y="447.2" font-size="15" text-anchor="start" font-weight="normal" fill="#222" >plus la surdité est importante.</text>
+<circle cx="40.0" cy="567.0" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/>
+<text x="56.0" y="572.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >CA droite (rouge)</text>
+<path d="M201.3,560.0 L215.3,574.0 M201.3,574.0 L215.3,560.0" stroke="#1565c0" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<text x="224.3" y="572.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >CA gauche (bleu)</text>
+<polyline points="376.7,558.0 366.7,567.0 376.7,576.0" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="384.7" y="572.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >CO droite</text>
+<polyline points="471.8,558.0 481.8,567.0 471.8,576.0" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="489.8" y="572.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >CO gauche</text>
+<polyline points="47.0,582.0 40.0,582.0 40.0,600.0 47.0,600.0" stroke="#c62828" stroke-width="2.6" fill="none" stroke-linejoin="round"/>
+<text x="56.0" y="596.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >CO masquée droite</text>
+<polyline points="207.3,582.0 214.3,582.0 214.3,600.0 207.3,600.0" stroke="#1565c0" stroke-width="2.6" fill="none" stroke-linejoin="round"/>
+<text x="224.3" y="596.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >CO masquée gauche</text>
+<circle cx="376.6" cy="591.0" r="8" fill="#fff" stroke="#c62828" stroke-width="2.6"/><path d="M381.6,597.0 L388.6,607.0 M388.6,607.0 L388.6,600.0 M388.6,607.0 L381.6,606.0" stroke="#c62828" stroke-width="2" fill="none"/>
+<text x="392.6" y="596.0" font-size="14" text-anchor="start" font-weight="normal" fill="#222" >pas de réponse (flèche vers le bas)</text>
+</svg>

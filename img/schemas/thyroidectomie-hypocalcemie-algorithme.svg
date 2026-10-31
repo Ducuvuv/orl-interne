@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 700" font-family="Arial, Helvetica, sans-serif">
+  <rect x="0" y="0" width="960" height="700" fill="#ffffff"/>
+  <defs>
+    <marker id="fl" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#374151"/>
+    </marker>
+  </defs>
+
+  <text x="480" y="34" font-size="22" font-weight="bold" text-anchor="middle" fill="#111827">Hypocalcémie après thyroïdectomie totale : conduite pratique</text>
+  <text x="480" y="58" font-size="14" text-anchor="middle" fill="#4b5563">AFCE/SFE/SFMN 2023 · PNDS Hypoparathyroïdie 2025 · seuils et horaires à adapter au protocole du service</text>
+
+  <!-- Étape 1 -->
+  <rect x="200" y="78" width="560" height="74" rx="10" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+  <text x="480" y="104" font-size="16" font-weight="bold" text-anchor="middle" fill="#0c4a6e">Calcémie totale (+ albumine) et PTH</text>
+  <text x="480" y="126" font-size="14" text-anchor="middle" fill="#0c4a6e">dans les 12-24 h (ou H4-H6 si ambulatoire) · magnésémie</text>
+  <text x="480" y="144" font-size="13" text-anchor="middle" fill="#0c4a6e">+ examen : paresthésies, crampes, Chvostek, Trousseau</text>
+
+  <line x1="480" y1="152" x2="480" y2="176" stroke="#374151" stroke-width="2"/>
+  <line x1="160" y1="176" x2="800" y2="176" stroke="#374151" stroke-width="2"/>
+  <line x1="160" y1="176" x2="160" y2="198" stroke="#374151" stroke-width="2" marker-end="url(#fl)"/>
+  <line x1="480" y1="176" x2="480" y2="198" stroke="#374151" stroke-width="2" marker-end="url(#fl)"/>
+  <line x1="800" y1="176" x2="800" y2="198" stroke="#374151" stroke-width="2" marker-end="url(#fl)"/>
+
+  <!-- Branche A -->
+  <rect x="30" y="202" width="260" height="96" rx="10" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+  <text x="160" y="228" font-size="15" font-weight="bold" text-anchor="middle" fill="#14532d">PTH &gt; 10 pg/mL</text>
+  <text x="160" y="250" font-size="14" text-anchor="middle" fill="#14532d">asymptomatique</text>
+  <text x="160" y="272" font-size="14" text-anchor="middle" fill="#14532d">et calcémie &gt; 1,90 mmol/L</text>
+
+  <!-- Branche B -->
+  <rect x="350" y="202" width="260" height="96" rx="10" fill="#fef9c3" stroke="#a16207" stroke-width="2"/>
+  <text x="480" y="228" font-size="15" font-weight="bold" text-anchor="middle" fill="#713f12">PTH &gt; 10 pg/mL</text>
+  <text x="480" y="250" font-size="14" text-anchor="middle" fill="#713f12">mais symptômes</text>
+  <text x="480" y="272" font-size="14" text-anchor="middle" fill="#713f12">ou calcémie ≤ 1,90 mmol/L</text>
+
+  <!-- Branche C -->
+  <rect x="670" y="202" width="260" height="96" rx="10" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/>
+  <text x="800" y="228" font-size="15" font-weight="bold" text-anchor="middle" fill="#7c2d12">PTH ≤ 10 pg/mL</text>
+  <text x="800" y="250" font-size="14" text-anchor="middle" fill="#7c2d12">(effondrée / indosable)</text>
+  <text x="800" y="272" font-size="14" text-anchor="middle" fill="#7c2d12">risque d'hypoparathyroïdie</text>
+  <text x="800" y="290" font-size="14" text-anchor="middle" fill="#7c2d12">prolongée</text>
+
+  <line x1="160" y1="298" x2="160" y2="326" stroke="#374151" stroke-width="2" marker-end="url(#fl)"/>
+  <line x1="480" y1="298" x2="480" y2="326" stroke="#374151" stroke-width="2" marker-end="url(#fl)"/>
+  <line x1="800" y1="298" x2="800" y2="326" stroke="#374151" stroke-width="2" marker-end="url(#fl)"/>
+
+  <rect x="30" y="330" width="260" height="128" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="2"/>
+  <text x="160" y="356" font-size="14" font-weight="bold" text-anchor="middle" fill="#14532d">Pas de traitement</text>
+  <text x="160" y="380" font-size="14" text-anchor="middle" fill="#1f2937">Sortie possible</text>
+  <text x="160" y="402" font-size="14" text-anchor="middle" fill="#1f2937">Calcémie de contrôle</text>
+  <text x="160" y="422" font-size="14" text-anchor="middle" fill="#1f2937">vers J7-J8</text>
+  <text x="160" y="444" font-size="13" text-anchor="middle" fill="#4b5563">consignes : signes d'alerte</text>
+
+  <rect x="350" y="330" width="260" height="128" rx="10" fill="#ffffff" stroke="#a16207" stroke-width="2"/>
+  <text x="480" y="356" font-size="14" font-weight="bold" text-anchor="middle" fill="#713f12">Calcium élément per os</text>
+  <text x="480" y="380" font-size="14" text-anchor="middle" fill="#1f2937">0,5 à 1 g/jour</text>
+  <text x="480" y="402" font-size="14" text-anchor="middle" fill="#1f2937">(prises de 500 mg)</text>
+  <text x="480" y="424" font-size="14" text-anchor="middle" fill="#1f2937">pas de dérivé hydroxylé</text>
+  <text x="480" y="444" font-size="13" text-anchor="middle" fill="#4b5563">calcémie rapprochée puis J7-J8</text>
+
+  <rect x="670" y="330" width="260" height="128" rx="10" fill="#ffffff" stroke="#c2410c" stroke-width="2"/>
+  <text x="800" y="356" font-size="14" font-weight="bold" text-anchor="middle" fill="#7c2d12">Calcium élément 1 à 3 g/j</text>
+  <text x="800" y="378" font-size="14" text-anchor="middle" fill="#1f2937">+ alfacalcidol (ex. 0,5 µg</text>
+  <text x="800" y="398" font-size="14" text-anchor="middle" fill="#1f2937">matin et soir) ou calcitriol</text>
+  <text x="800" y="420" font-size="14" text-anchor="middle" fill="#1f2937">dès J1, sans attendre</text>
+  <text x="800" y="440" font-size="14" text-anchor="middle" fill="#1f2937">les symptômes · avis endocrino</text>
+
+  <!-- Gravité -->
+  <rect x="30" y="482" width="900" height="112" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="3"/>
+  <text x="480" y="510" font-size="16" font-weight="bold" text-anchor="middle" fill="#7f1d1d">À tout moment : signes de gravité = gluconate de calcium IV + appel senior</text>
+  <text x="480" y="534" font-size="14" text-anchor="middle" fill="#7f1d1d">Tétanie, laryngospasme, bronchospasme, convulsions, QT long, bradycardie / troubles du rythme</text>
+  <text x="480" y="556" font-size="14" text-anchor="middle" fill="#7f1d1d">Gluconate de calcium 10 % : 2 ampoules de 10 mL dans 100 mL de G5 % en 10 min, patient scopé (PNDS 2025)</text>
+  <text x="480" y="578" font-size="14" text-anchor="middle" fill="#7f1d1d">puis 5 ampoules dans 500 mL (G5 % ou NaCl 0,9 %) sur 12 h · calcémie toutes les 4-6 h · relais per os</text>
+
+  <!-- Rappels -->
+  <rect x="30" y="610" width="900" height="74" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <text x="480" y="636" font-size="14" text-anchor="middle" fill="#1f2937">Corriger une hypomagnésémie · calcium à au moins 2 h de la lévothyroxine · objectif : calcémie dans la normale basse</text>
+  <text x="480" y="660" font-size="14" text-anchor="middle" fill="#1f2937">Patient traité : calcémie hebdomadaire le 1er mois · 70-80 % récupèrent en 1 mois · définitive si &gt; 6 à 12 mois</text>
+</svg>

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ORL Interne</title>
+<meta name="description" content="Fiches ORL, ordonnances types, post-op et urgences de garde pour l'interne d'ORL.">
+<meta name="theme-color" content="#0e6680">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="ORL Interne">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="assets/app.css?v=60ea9c2291">
+<script>
+  try { var t = localStorage.getItem('orl:theme'); if (t) document.documentElement.dataset.theme = JSON.parse(t);
+        var f = localStorage.getItem('orl:font'); if (f) document.documentElement.dataset.font = JSON.parse(f); } catch (e) {}
+</script>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h5v-6h4v6h5V9.5"/></symbol>
+    <symbol id="i-siren" viewBox="0 0 24 24"><path d="M7 18v-6a5 5 0 0 1 10 0v6"/><path d="M5 21h14v-3H5z"/><path d="M12 3v2M4.2 6.2l1.4 1.4M19.8 6.2l-1.4 1.4M2 12h2M20 12h2"/></symbol>
+    <symbol id="i-rx" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h3.5a2 2 0 0 1 0 4H8V8zm0 4v4m3-4 4 5m0-5-4 5"/></symbol>
+    <symbol id="i-scalpel" viewBox="0 0 24 24"><path d="M3 21 14.5 9.5"/><path d="m14.5 9.5 3-3a3.5 3.5 0 0 1 3 3l-3 3"/><path d="M14.5 9.5 17.5 12.5"/><path d="M3 21h6"/></symbol>
+    <symbol id="i-tool" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 4.5A1.5 1.5 0 0 1 5.5 3H20v15H5.5A1.5 1.5 0 0 0 4 19.5z"/><path d="M4 19.5A1.5 1.5 0 0 0 5.5 21H20v-3"/><path d="M9 7h7M9 11h5"/></symbol>
+    <symbol id="i-text" viewBox="0 0 24 24"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6M8 13h8M8 17h5"/></symbol>
+    <symbol id="i-image" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 9"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 3 2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></symbol>
+    <symbol id="i-print" viewBox="0 0 24 24"><path d="M6 9V3h12v6"/><rect x="3" y="9" width="18" height="8" rx="2"/><path d="M6 14h12v7H6z"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="13" height="13" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></symbol>
+    <symbol id="i-chev" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6"/></symbol>
+    <symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+    <symbol id="i-ear" viewBox="0 0 24 24"><path d="M6 8.5a6 6 0 1 1 12 0c0 3.5-2.5 4.5-3.5 6.5S13 19 11 20.5c-1.6 1.2-4 .5-4.5-1.5"/><path d="M9 9a3 3 0 0 1 6 0c0 2-2 2.5-2 4"/></symbol>
+    <symbol id="i-more" viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></symbol>
+  </defs>
+</svg>
+
+<header class="topbar">
+  <button class="iconbtn back" id="btn-back" aria-label="Retour" hidden><svg><use href="#i-back"/></svg></button>
+  <a class="brand" href="#/" aria-label="Accueil">
+    <span class="brand-mark"><svg><use href="#i-ear"/></svg></span>
+    <span class="brand-name">ORL <b>Interne</b></span>
+  </a>
+  <form class="topsearch" id="topsearch" role="search">
+    <svg><use href="#i-search"/></svg>
+    <input id="q" type="search" placeholder="Rechercher : OMA, épistaxis, amoxicilline…" autocomplete="off" enterkeyhint="search">
+  </form>
+  <a class="iconbtn" href="#/recherche" id="btn-search" aria-label="Rechercher"><svg><use href="#i-search"/></svg></a>
+  <a class="iconbtn" href="#/reglages" aria-label="Réglages"><svg><use href="#i-gear"/></svg></a>
+</header>
+
+<div class="layout">
+  <nav class="sidebar" id="sidebar" aria-label="Navigation"></nav>
+  <main id="view" tabindex="-1"></main>
+</div>
+
+<nav class="tabbar" aria-label="Navigation principale">
+  <a href="#/" data-tab="home"><svg><use href="#i-home"/></svg><span>Accueil</span></a>
+  <a href="#/s/urgences" data-tab="urgences" class="tab-urg"><svg><use href="#i-siren"/></svg><span>Garde</span></a>
+  <a href="#/ordos" data-tab="ordos"><svg><use href="#i-rx"/></svg><span>Ordos</span></a>
+  <a href="#/s/postop" data-tab="postop"><svg><use href="#i-scalpel"/></svg><span>Post-op</span></a>
+  <a href="#/s/outils" data-tab="outils"><svg><use href="#i-tool"/></svg><span>Outils</span></a>
+</nav>
+
+<div id="print-area" aria-hidden="true"></div>
+<div id="lightbox" hidden><button class="iconbtn lb-close" aria-label="Fermer"><svg><use href="#i-x"/></svg></button><figure><img alt=""><figcaption></figcaption></figure></div>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script src="data/content.js?v=60ea9c2291"></script>
+<script src="assets/app.js?v=60ea9c2291"></script>
+</body>
+</html>

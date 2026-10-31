@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" width="700" height="700" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="700" height="700" fill="#ffffff"/>
+<text x="350.0" y="30.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#222" >Niveaux ganglionnaires cervicaux</text>
+<text x="350.0" y="54.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#555" >Côté droit, vue latérale (patient regardant vers la droite) — schéma simplifié, non à l'échelle</text>
+<path d="M188,150 C160,250 130,420 92,548" fill="none" stroke="#b8a89a" stroke-width="2"/>
+<ellipse cx="226" cy="112" rx="30" ry="46" fill="#f6e9df" stroke="#b8a89a" stroke-width="2"/>
+<text x="226.0" y="117.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#8a7768" >Oreille</text>
+<path d="M300,104 L316,236 L546,262 L552,212" fill="none" stroke="#9e8f84" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="420.0" y="228.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#7a6a5e" >Mandibule</text>
+<polyline points="546,262 528,284 500,298 484,305 494,338 497,362 488,397 480,440 472,500 466,558" fill="none" stroke="#b8a89a" stroke-width="2"/>
+<polygon points="522.0,262.0 546.0,262.0 528.0,284.0 500.0,298.0 484.0,304.0 447.0,303.0" fill="#ffe082" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="356.9,240.6 522.0,262.0 447.0,303.0" fill="#ffe082" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="296.8,199.0 447.0,303.0 457.0,305.0 288.3,305.0 278.0,274.0" fill="#ffb74d" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="244.0,172.0 252.0,168.0 296.8,199.0 278.0,274.0" fill="#ffb74d" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="288.3,305.0 457.0,305.0 454.0,397.0 319.0,397.0" fill="#aed581" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="319.0,397.0 454.0,397.0 448.8,559.5 372.2,556.5" fill="#4db6ac" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="196.0,172.0 244.0,172.0 319.0,397.0 151.7,397.0" fill="#81a9e0" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="151.7,397.0 319.0,397.0 372.2,556.5 122.3,546.7" fill="#81a9e0" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="457.0,305.0 484.0,305.0 494.0,338.0 497.0,362.0 488.0,397.0 480.0,440.0 472.0,500.0 466.0,558.0 448.8,559.5" fill="#f48fb1" fill-opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+<polygon points="244,162 282,162 458,556 372,556" fill="#c62828" fill-opacity="0.06" stroke="#c62828" stroke-opacity="0.45" stroke-width="1.2" stroke-dasharray="5,4"/>
+<line x1="244.0" y1="172.0" x2="372.0" y2="556.0" stroke="#c62828" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="196.0" y1="172.0" x2="122.0" y2="548.0" stroke="#5d4037" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="252.0" y1="168.0" x2="447.0" y2="303.0" stroke="#6d4c41" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="447.0" y1="303.0" x2="522.0" y2="262.0" stroke="#6d4c41" stroke-width="3.2" stroke-linecap="round"/>
+<line x1="462.0" y1="560.0" x2="104.0" y2="546.0" stroke="#8d8d8d" stroke-width="8" stroke-linecap="round"/>
+<line x1="440.0" y1="305.0" x2="486.0" y2="305.0" stroke="#8d8d8d" stroke-width="6" stroke-linecap="round"/>
+<line x1="462.0" y1="393.0" x2="490.0" y2="393.0" stroke="#8d8d8d" stroke-width="6" stroke-linecap="round"/>
+<line x1="288.3" y1="305.0" x2="457.0" y2="305.0" stroke="#555" stroke-width="1.6" stroke-dasharray="6,4" stroke-linecap="round"/>
+<line x1="151.7" y1="397.0" x2="454.0" y2="397.0" stroke="#555" stroke-width="1.6" stroke-dasharray="6,4" stroke-linecap="round"/>
+<line x1="296.8" y1="199.0" x2="278.0" y2="274.0" stroke="#f9a825" stroke-width="3" stroke-dasharray="7,5" stroke-linecap="round"/>
+<line x1="278.0" y1="274.0" x2="137.7" y2="468.0" stroke="#f9a825" stroke-width="3" stroke-dasharray="7,5" stroke-linecap="round"/>
+<line x1="457.0" y1="305.0" x2="449.0" y2="552.0" stroke="#ad1457" stroke-width="1.6" stroke-dasharray="3,4" stroke-linecap="round"/>
+<text x="395.0" y="262.0" font-size="20" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >IB</text>
+<text x="262.0" y="214.0" font-size="16" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >IIB</text>
+<text x="350.0" y="270.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >IIA</text>
+<text x="372.0" y="357.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >III</text>
+<text x="400.0" y="478.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >IV</text>
+<text x="232.0" y="300.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >VA</text>
+<text x="240.0" y="480.0" font-size="22" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >VB</text>
+<text x="473.0" y="470.0" font-size="18" text-anchor="middle" font-weight="bold" fill="#1a1a1a" >VI</text>
+<line x1="508.0" y1="285.0" x2="585.0" y2="300.0" stroke="#333" stroke-width="1.2" stroke-linecap="round"/>
+<text x="590.0" y="305.0" font-size="20" text-anchor="start" font-weight="bold" fill="#1a1a1a" >IA</text>
+<text x="590.0" y="323.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333" >sous-mentonnier</text>
+<path d="M466,566 L466,600" stroke="#333" stroke-width="1.6" fill="none"/>
+<polygon points="466,608 460,596 472,596" fill="#333"/>
+<text x="480.0" y="600.0" font-size="13" text-anchor="start" font-weight="bold" fill="#333" >VII : médiastin supérieur</text>
+<text x="480.0" y="616.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333" >(sous la fourchette sternale)</text>
+<line x1="486.0" y1="305.0" x2="590.0" y2="352.0" stroke="#555" stroke-width="1" stroke-linecap="round"/>
+<text x="594.0" y="352.0" font-size="13" text-anchor="start" font-weight="bold" fill="#333" >Os hyoïde</text>
+<line x1="490.0" y1="393.0" x2="590.0" y2="404.0" stroke="#555" stroke-width="1" stroke-linecap="round"/>
+<text x="594.0" y="404.0" font-size="13" text-anchor="start" font-weight="bold" fill="#333" >Cricoïde</text>
+<text x="594.0" y="420.0" font-size="12" text-anchor="start" font-weight="normal" fill="#333" >(bord inférieur)</text>
+<line x1="451.7" y1="470.0" x2="580.0" y2="462.0" stroke="#ad1457" stroke-width="1" stroke-linecap="round"/>
+<text x="584.0" y="462.0" font-size="12" text-anchor="start" font-weight="bold" fill="#ad1457" >Limite III-IV / VI :</text>
+<text x="584.0" y="477.0" font-size="12" text-anchor="start" font-weight="bold" fill="#ad1457" >carotide commune</text>
+<text x="584.0" y="492.0" font-size="12" text-anchor="start" font-weight="normal" fill="#ad1457" >(sterno-hyoïdien)</text>
+<text x="300.0" y="584.0" font-size="13" text-anchor="middle" font-weight="bold" fill="#666" >Clavicule</text>
+<line x1="176.0" y1="250.0" x2="120.0" y2="250.0" stroke="#5d4037" stroke-width="1" stroke-linecap="round"/>
+<text x="116.0" y="246.0" font-size="12" text-anchor="end" font-weight="bold" fill="#5d4037" >Bord ant.</text>
+<text x="116.0" y="261.0" font-size="12" text-anchor="end" font-weight="bold" fill="#5d4037" >du trapèze</text>
+<line x1="330.0" y1="430.0" x2="150.0" y2="560.0" stroke="#c62828" stroke-width="1" stroke-linecap="round"/>
+<text x="150.0" y="576.0" font-size="12" text-anchor="middle" font-weight="bold" fill="#c62828" >Bord post. du SCM</text>
+<text x="318.0" y="140.0" font-size="12" text-anchor="start" font-weight="bold" fill="#6d4c41" >Ventre post. du digastrique</text>
+<text x="318.0" y="154.0" font-size="12" text-anchor="start" font-weight="bold" fill="#6d4c41" >+ stylo-hyoïdien</text>
+<line x1="300.0" y1="158.0" x2="290.0" y2="192.0" stroke="#6d4c41" stroke-width="1" stroke-linecap="round"/>
+<text x="560.0" y="250.0" font-size="12" text-anchor="start" font-weight="bold" fill="#6d4c41" >Ventre ant.</text>
+<text x="560.0" y="264.0" font-size="12" text-anchor="start" font-weight="bold" fill="#6d4c41" >du digastrique</text>
+<line x1="558.0" y1="258.0" x2="500.0" y2="276.0" stroke="#6d4c41" stroke-width="1" stroke-linecap="round"/>
+<line x1="287.4" y1="236.5" x2="120.0" y2="196.0" stroke="#b8860b" stroke-width="1" stroke-linecap="round"/>
+<text x="116.0" y="192.0" font-size="13" text-anchor="end" font-weight="bold" fill="#b8860b" >Nerf XI</text>
+<text x="116.0" y="207.0" font-size="12" text-anchor="end" font-weight="normal" fill="#b8860b" >(sépare IIA</text>
+<text x="116.0" y="221.0" font-size="12" text-anchor="end" font-weight="normal" fill="#b8860b" >et IIB)</text>
+<text x="232.0" y="316.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#333" >au-dessus</text>
+<text x="232.0" y="329.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#333" >du cricoïde</text>
+<text x="350.0" y="640.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#222" >Plans horizontaux : hyoïde (II / III) · bord inférieur du cricoïde (III / IV et VA / VB).</text>
+<text x="350.0" y="660.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#222" >IIA / IIB : plan vertical du nerf XI · Niveaux II-IV : chaîne jugulaire, sous le SCM.</text>
+<text x="350.0" y="680.0" font-size="14" text-anchor="middle" font-weight="normal" fill="#222" >VI : de l'hyoïde à la fourchette sternale, entre les carotides communes.</text>
+</svg>

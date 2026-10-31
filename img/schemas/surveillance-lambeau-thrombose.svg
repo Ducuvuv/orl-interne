@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 572" width="720" height="572" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="720" height="572" fill="#ffffff"/>
+  <text x="360" y="28" font-size="20" font-weight="bold" text-anchor="middle" fill="#222">Lambeau libre : normal, souffrance veineuse ou artérielle ?</text>
+  <text x="360" y="49" font-size="13" text-anchor="middle" fill="#555">Comparer à l'examen précédent et à la peau voisine — toujours le même examinateur si possible</text>
+
+  <!-- en-tetes colonnes -->
+  <rect x="150" y="64" width="180" height="96" rx="10" fill="#f6c1b1" stroke="#c77d68" stroke-width="2"/>
+  <text x="240" y="100" font-size="15" font-weight="bold" text-anchor="middle" fill="#5d2c1d">NORMAL</text>
+  <text x="240" y="122" font-size="12" text-anchor="middle" fill="#5d2c1d">rosé, souple,</text>
+  <text x="240" y="138" font-size="12" text-anchor="middle" fill="#5d2c1d">chaud</text>
+
+  <rect x="340" y="64" width="180" height="96" rx="10" fill="#7d4a86" stroke="#4a2352" stroke-width="2"/>
+  <text x="430" y="94" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">THROMBOSE VEINEUSE</text>
+  <text x="430" y="114" font-size="12" text-anchor="middle" fill="#ffffff">(la plus fréquente)</text>
+  <text x="430" y="132" font-size="12" text-anchor="middle" fill="#ffffff">violacé, gonflé,</text>
+  <text x="430" y="148" font-size="12" text-anchor="middle" fill="#ffffff">tendu</text>
+
+  <rect x="530" y="64" width="180" height="96" rx="10" fill="#f4f1ea" stroke="#9e9a8f" stroke-width="2"/>
+  <text x="620" y="100" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">THROMBOSE</text>
+  <text x="620" y="118" font-size="14" font-weight="bold" text-anchor="middle" fill="#333">ARTÉRIELLE</text>
+  <text x="620" y="140" font-size="12" text-anchor="middle" fill="#333">pâle, froid, flasque</text>
+
+  <!-- lignes -->
+  <g font-size="12.5" fill="#222">
+    <rect x="10" y="170" width="700" height="44" fill="#fafafa"/>
+    <text x="20" y="197" font-weight="bold">Couleur</text>
+    <text x="240" y="190" text-anchor="middle">rosée, comparable</text>
+    <text x="240" y="206" text-anchor="middle">au site donneur</text>
+    <text x="430" y="190" text-anchor="middle">violacée, bleutée,</text>
+    <text x="430" y="206" text-anchor="middle">marbrée</text>
+    <text x="620" y="198" text-anchor="middle">pâle, blanche</text>
+
+    <text x="20" y="241" font-weight="bold">Température</text>
+    <text x="240" y="241" text-anchor="middle">chaude</text>
+    <text x="430" y="241" text-anchor="middle">chaude au début</text>
+    <text x="620" y="241" text-anchor="middle">froide</text>
+
+    <rect x="10" y="258" width="700" height="44" fill="#fafafa"/>
+    <text x="20" y="285" font-weight="bold">Turgescence</text>
+    <text x="240" y="285" text-anchor="middle">souple</text>
+    <text x="430" y="278" text-anchor="middle">tendu, œdémateux,</text>
+    <text x="430" y="294" text-anchor="middle">bombé</text>
+    <text x="620" y="278" text-anchor="middle">flasque, plat,</text>
+    <text x="620" y="294" text-anchor="middle">fripé</text>
+
+    <text x="20" y="322" font-weight="bold">Recoloration</text>
+    <text x="20" y="338" font-weight="bold">(TRC)</text>
+    <text x="240" y="330" text-anchor="middle">1 à 3 s</text>
+    <text x="430" y="322" text-anchor="middle">RAPIDE</text>
+    <text x="430" y="338" text-anchor="middle">(&lt; 1 s)</text>
+    <text x="620" y="322" text-anchor="middle">LENTE (&gt; 3 s)</text>
+    <text x="620" y="338" text-anchor="middle">ou absente</text>
+
+    <rect x="10" y="350" width="700" height="58" fill="#fafafa"/>
+    <text x="20" y="374" font-weight="bold">Piqûre à</text>
+    <text x="20" y="390" font-weight="bold">l'aiguille fine</text>
+    <text x="240" y="374" text-anchor="middle">sang ROUGE VIF</text>
+    <text x="240" y="390" text-anchor="middle">en quelques secondes</text>
+    <text x="430" y="374" text-anchor="middle">sang NOIR, immédiat,</text>
+    <text x="430" y="390" text-anchor="middle">abondant</text>
+    <text x="620" y="374" text-anchor="middle">pas de saignement</text>
+    <text x="620" y="390" text-anchor="middle">(ou sérosité tardive)</text>
+
+    <text x="20" y="432" font-weight="bold">Doppler</text>
+    <text x="240" y="432" text-anchor="middle">signal présent</text>
+    <text x="430" y="424" text-anchor="middle">signal modifié/perdu</text>
+    <text x="430" y="440" text-anchor="middle">(artériel parfois conservé)</text>
+    <text x="620" y="432" text-anchor="middle">signal artériel absent</text>
+  </g>
+  <line x1="10" y1="452" x2="710" y2="452" stroke="#ddd"/>
+  <rect x="10" y="462" width="700" height="100" rx="10" fill="#ffebee" stroke="#c62828" stroke-width="2"/>
+  <text x="360" y="490" font-size="16" font-weight="bold" text-anchor="middle" fill="#b71c1c">Le moindre doute → appeler le senior IMMÉDIATEMENT</text>
+  <text x="360" y="512" font-size="13" text-anchor="middle" fill="#333">La reprise chirurgicale PRÉCOCE est la condition du sauvetage du lambeau.</text>
+  <text x="360" y="532" font-size="13" text-anchor="middle" fill="#333">En attendant : libérer le cou (cordon, pansement), vérifier position de la tête,</text>
+  <text x="360" y="548" font-size="13" text-anchor="middle" fill="#333">hémodynamique, température ; préparer bilan préopératoire et à jeun.</text>
+</svg>
